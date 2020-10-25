@@ -1,0 +1,21 @@
+<configuration>
+<appender name="elasticsearch" class="com.opster.mclb.infrastructure.logs.ElasticSearchAppender">
+    <protocol>http</protocol>
+    <host>localhost</host>
+    <port>9200</port>
+    <index>mclb_logs</index>
+    <batchSize>10</batchSize>
+    <batchTimeoutInMilliseconds>5000</batchTimeoutInMilliseconds>
+    <retry>3</retry>
+</appender>
+<appender name="console" class="ch.qos.logback.core.ConsoleAppender">
+  <encoder class="net.logstash.logback.encoder.LogstashEncoder"/>
+  </appender>
+  <logger name="elasticsearch_logger" level="info">
+      <appender-ref ref="elasticsearch" />
+      <appender-ref ref="console"/>
+  </logger>
+  <root level="info">
+      <appender-ref ref="console"/>
+  </root>
+</configuration>
