@@ -1,0 +1,2238 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/feffe43/
+0	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+0	SGW-Grafana-Dashboard.json	/^        "#d44a3a",$/;"	s	array:panels.1.colors
+0	SGW-Grafana-Dashboard.json	/^        "rgba(245, 54, 54, 0.9)",$/;"	s	array:panels.2.colors
+0	SGW-Grafana-Dashboard.json	/^        "rgba(50, 172, 45, 0.97)",$/;"	s	array:panels.3.colors
+0	SGW-Grafana-Dashboard.json	/^        "rgba(50, 172, 45, 0.97)",$/;"	s	array:panels.4.colors
+0	SGW-Grafana-Dashboard.json	/^        "rgba(50, 172, 45, 0.97)",$/;"	s	array:panels.5.colors
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.1.mappingTypes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.1.rangeMaps
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.1.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.1.valueMaps
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.10.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.10.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.11.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.11.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.12.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.12.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.13.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.13.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.15.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.15.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.16.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.16.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.17.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.17.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.18.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.18.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.2.mappingTypes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.2.rangeMaps
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.2.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.2.valueMaps
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.20.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.20.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.21.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.21.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.22.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.22.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.23.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.23.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.24.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.24.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.25.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.25.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.26.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.26.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.3.mappingTypes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.3.rangeMaps
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.3.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.3.valueMaps
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.4.mappingTypes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.4.rangeMaps
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.4.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.4.valueMaps
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.5.mappingTypes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.5.rangeMaps
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.5.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.6.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.6.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.7.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.7.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.8.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.8.yaxes
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.9.targets
+0	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.9.yaxes
+0	SGW-Grafana-Dashboard.json	/^      "1s",$/;"	s	array:timepicker.refresh_intervals
+0	SGW-Grafana-Dashboard.json	/^      "5m",$/;"	s	array:timepicker.time_options
+0	SGW-Grafana-Dashboard.json	/^      {$/;"	o	array:annotations.list
+0	SGW-Grafana-Dashboard.json	/^      {$/;"	o	array:templating.list
+0	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+1	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+1	SGW-Grafana-Dashboard.json	/^        "rgba(237, 129, 40, 0.89)",$/;"	s	array:panels.1.colors
+1	SGW-Grafana-Dashboard.json	/^        "rgba(237, 129, 40, 0.89)",$/;"	s	array:panels.2.colors
+1	SGW-Grafana-Dashboard.json	/^        "rgba(237, 129, 40, 0.89)",$/;"	s	array:panels.3.colors
+1	SGW-Grafana-Dashboard.json	/^        "rgba(237, 129, 40, 0.89)",$/;"	s	array:panels.4.colors
+1	SGW-Grafana-Dashboard.json	/^        "rgba(237, 129, 40, 0.89)",$/;"	s	array:panels.5.colors
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.1.mappingTypes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.1.rangeMaps
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.1.valueMaps
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.10.targets
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.10.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.11.targets
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.11.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.12.targets
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.12.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.13.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.15.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.16.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.17.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.18.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.2.mappingTypes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.20.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.21.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.22.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.23.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.24.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.25.targets
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.25.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.26.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.3.mappingTypes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.4.mappingTypes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.4.valueMaps
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.5.mappingTypes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.6.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.7.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.8.targets
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.8.yaxes
+1	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.9.yaxes
+1	SGW-Grafana-Dashboard.json	/^      "15m",$/;"	s	array:timepicker.time_options
+1	SGW-Grafana-Dashboard.json	/^      "5s",$/;"	s	array:timepicker.refresh_intervals
+1	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+10	SGW-Grafana-Dashboard.json	/^      "1d"$/;"	s	array:timepicker.refresh_intervals
+10	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+11	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+12	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+13	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+14	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+15	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+16	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+17	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+18	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+19	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+2	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+2	SGW-Grafana-Dashboard.json	/^        "#299c46"$/;"	s	array:panels.1.colors
+2	SGW-Grafana-Dashboard.json	/^        "rgba(245, 54, 54, 0.9)"$/;"	s	array:panels.3.colors
+2	SGW-Grafana-Dashboard.json	/^        "rgba(245, 54, 54, 0.9)"$/;"	s	array:panels.4.colors
+2	SGW-Grafana-Dashboard.json	/^        "rgba(245, 54, 54, 0.9)"$/;"	s	array:panels.5.colors
+2	SGW-Grafana-Dashboard.json	/^        "rgba(50, 172, 45, 0.97)"$/;"	s	array:panels.2.colors
+2	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.1.valueMaps
+2	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.10.targets
+2	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.11.targets
+2	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.4.valueMaps
+2	SGW-Grafana-Dashboard.json	/^      "10s",$/;"	s	array:timepicker.refresh_intervals
+2	SGW-Grafana-Dashboard.json	/^      "1h",$/;"	s	array:timepicker.time_options
+2	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+20	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+21	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+22	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+23	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+24	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+25	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+26	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+3	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+3	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.1.valueMaps
+3	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.10.targets
+3	SGW-Grafana-Dashboard.json	/^        {$/;"	o	array:panels.11.targets
+3	SGW-Grafana-Dashboard.json	/^      "30s",$/;"	s	array:timepicker.refresh_intervals
+3	SGW-Grafana-Dashboard.json	/^      "6h",$/;"	s	array:timepicker.time_options
+3	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+4	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+4	SGW-Grafana-Dashboard.json	/^      "12h",$/;"	s	array:timepicker.time_options
+4	SGW-Grafana-Dashboard.json	/^      "1m",$/;"	s	array:timepicker.refresh_intervals
+4	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+5	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+5	SGW-Grafana-Dashboard.json	/^      "24h",$/;"	s	array:timepicker.time_options
+5	SGW-Grafana-Dashboard.json	/^      "5m",$/;"	s	array:timepicker.refresh_intervals
+5	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+6	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+6	SGW-Grafana-Dashboard.json	/^      "15m",$/;"	s	array:timepicker.refresh_intervals
+6	SGW-Grafana-Dashboard.json	/^      "2d",$/;"	s	array:timepicker.time_options
+6	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+7	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+7	SGW-Grafana-Dashboard.json	/^      "30m",$/;"	s	array:timepicker.refresh_intervals
+7	SGW-Grafana-Dashboard.json	/^      "7d",$/;"	s	array:timepicker.time_options
+7	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+8	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+8	SGW-Grafana-Dashboard.json	/^      "1h",$/;"	s	array:timepicker.refresh_intervals
+8	SGW-Grafana-Dashboard.json	/^      "30d"$/;"	s	array:timepicker.time_options
+8	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+9	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
+9	SGW-Grafana-Dashboard.json	/^      "2h",$/;"	s	array:timepicker.refresh_intervals
+9	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+Configuration files can be download the following way:	README.md	/^### Configuration files can be download the following way:$/;"	S
+How to run	README.md	/^### How to run$/;"	S
+Monitoring files can be download the following way:	README.md	/^### Monitoring files can be download the following way:$/;"	S
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.10
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.11
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.12
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.13
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.15
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.16
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.17
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.18
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.20
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.21
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.22
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.23
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.24
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.25
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.26
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.6
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.7
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.8
+aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.9
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.10.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.11.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.12.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.13.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.15.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.16.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.17.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.18.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.20.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.21.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.22.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.23.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.24.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.25.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.26.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.6.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.7.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.8.yaxis
+align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.9.yaxis
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.10.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.11.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.12.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.20.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.23.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.24.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.25.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.26.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.7.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": false,$/;"	b	object:panels.8.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": true,$/;"	b	object:panels.21.legend
+alignAsTable	SGW-Grafana-Dashboard.json	/^        "alignAsTable": true,$/;"	b	object:panels.22.legend
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.10.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.11.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.12.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.13.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.15.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.16.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.17.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.18.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.20.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.21.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.22.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.23.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.24.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.25.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.26.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.6.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.7.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.8.yaxis
+alignLevel	SGW-Grafana-Dashboard.json	/^        "alignLevel": null$/;"	z	object:panels.9.yaxis
+annotations	SGW-Grafana-Dashboard.json	/^  "annotations": {$/;"	o
+auto	SGW-Grafana-Dashboard.json	/^        "auto": false,$/;"	b	object:templating.list.0
+auto_count	SGW-Grafana-Dashboard.json	/^        "auto_count": 30,$/;"	n	object:templating.list.0
+auto_min	SGW-Grafana-Dashboard.json	/^        "auto_min": "10s",$/;"	s	object:templating.list.0
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.13.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.15.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.16.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.17.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.18.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.20.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.21.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.23.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.24.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.25.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.26.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.6.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": false,$/;"	b	object:panels.9.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": true,$/;"	b	object:panels.10.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": true,$/;"	b	object:panels.11.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": true,$/;"	b	object:panels.12.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": true,$/;"	b	object:panels.22.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": true,$/;"	b	object:panels.7.legend
+avg	SGW-Grafana-Dashboard.json	/^        "avg": true,$/;"	b	object:panels.8.legend
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.10
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.11
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.12
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.13
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.15
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.16
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.17
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.18
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.20
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.21
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.22
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.23
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.24
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.25
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.26
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.6
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.7
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.8
+bars	SGW-Grafana-Dashboard.json	/^      "bars": false,$/;"	b	object:panels.9
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.10.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.11.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.12.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.13.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.15.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.16.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.17.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.18.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.20.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.21.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.22.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.23.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.24.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.25.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.26.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.6.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.7.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.8.xaxis
+buckets	SGW-Grafana-Dashboard.json	/^        "buckets": null,$/;"	z	object:panels.9.xaxis
+builtIn	SGW-Grafana-Dashboard.json	/^        "builtIn": 1,$/;"	n	object:annotations.list.0
+cacheTimeout	SGW-Grafana-Dashboard.json	/^      "cacheTimeout": null,$/;"	z	object:panels.1
+cacheTimeout	SGW-Grafana-Dashboard.json	/^      "cacheTimeout": null,$/;"	z	object:panels.2
+cacheTimeout	SGW-Grafana-Dashboard.json	/^      "cacheTimeout": null,$/;"	z	object:panels.3
+cacheTimeout	SGW-Grafana-Dashboard.json	/^      "cacheTimeout": null,$/;"	z	object:panels.4
+cacheTimeout	SGW-Grafana-Dashboard.json	/^      "cacheTimeout": null,$/;"	z	object:panels.5
+collapsed	SGW-Grafana-Dashboard.json	/^      "collapsed": false,$/;"	b	object:panels.0
+collapsed	SGW-Grafana-Dashboard.json	/^      "collapsed": false,$/;"	b	object:panels.14
+collapsed	SGW-Grafana-Dashboard.json	/^      "collapsed": false,$/;"	b	object:panels.19
+colorBackground	SGW-Grafana-Dashboard.json	/^      "colorBackground": false,$/;"	b	object:panels.1
+colorBackground	SGW-Grafana-Dashboard.json	/^      "colorBackground": false,$/;"	b	object:panels.2
+colorBackground	SGW-Grafana-Dashboard.json	/^      "colorBackground": false,$/;"	b	object:panels.3
+colorBackground	SGW-Grafana-Dashboard.json	/^      "colorBackground": false,$/;"	b	object:panels.4
+colorBackground	SGW-Grafana-Dashboard.json	/^      "colorBackground": false,$/;"	b	object:panels.5
+colorPrefix	SGW-Grafana-Dashboard.json	/^      "colorPrefix": false,$/;"	b	object:panels.4
+colorValue	SGW-Grafana-Dashboard.json	/^      "colorValue": false,$/;"	b	object:panels.2
+colorValue	SGW-Grafana-Dashboard.json	/^      "colorValue": false,$/;"	b	object:panels.5
+colorValue	SGW-Grafana-Dashboard.json	/^      "colorValue": true,$/;"	b	object:panels.1
+colorValue	SGW-Grafana-Dashboard.json	/^      "colorValue": true,$/;"	b	object:panels.3
+colorValue	SGW-Grafana-Dashboard.json	/^      "colorValue": true,$/;"	b	object:panels.4
+colors	SGW-Grafana-Dashboard.json	/^      "colors": [$/;"	a	object:panels.1
+colors	SGW-Grafana-Dashboard.json	/^      "colors": [$/;"	a	object:panels.2
+colors	SGW-Grafana-Dashboard.json	/^      "colors": [$/;"	a	object:panels.3
+colors	SGW-Grafana-Dashboard.json	/^      "colors": [$/;"	a	object:panels.4
+colors	SGW-Grafana-Dashboard.json	/^      "colors": [$/;"	a	object:panels.5
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.13.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.15.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.16.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.17.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.18.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.20.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.21.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.23.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.24.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.25.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.26.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.6.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": false,$/;"	b	object:panels.9.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": true,$/;"	b	object:panels.10.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": true,$/;"	b	object:panels.11.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": true,$/;"	b	object:panels.12.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": true,$/;"	b	object:panels.22.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": true,$/;"	b	object:panels.7.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": true,$/;"	b	object:panels.8.legend
+current	SGW-Grafana-Dashboard.json	/^        "current": {$/;"	o	object:templating.list.0
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.10
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.11
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.12
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.13
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.15
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.16
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.17
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.18
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.20
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.21
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.22
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.23
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.24
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.25
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.26
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.6
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.7
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.8
+dashLength	SGW-Grafana-Dashboard.json	/^      "dashLength": 10,$/;"	n	object:panels.9
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.10
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.11
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.12
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.13
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.15
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.16
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.17
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.18
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.20
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.21
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.22
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.23
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.24
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.25
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.26
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.6
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.7
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.8
+dashes	SGW-Grafana-Dashboard.json	/^      "dashes": false,$/;"	b	object:panels.9
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.10.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.11.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.12.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.13.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.15.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.16.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.17.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.18.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.20.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.21.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.22.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.23.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.24.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.25.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.26.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.6.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.7.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.8.options
+dataLinks	SGW-Grafana-Dashboard.json	/^        "dataLinks": []$/;"	a	object:panels.9.options
+datasource	SGW-Grafana-Dashboard.json	/^        "datasource": "-- Grafana --",$/;"	s	object:annotations.list.0
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.1
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.10
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.11
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.12
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.2
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.20
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.21
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.22
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.23
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.24
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.25
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.26
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.3
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.4
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.5
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.7
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": "Prometheus",$/;"	s	object:panels.8
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.0
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.13
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.14
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.15
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.16
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.17
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.18
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.19
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.6
+datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:panels.9
+description	SGW-Grafana-Dashboard.json	/^      "description": "0\/1 - 0 State Healthy , 1 state Not Healthy",$/;"	s	object:panels.13
+description	SGW-Grafana-Dashboard.json	/^      "description": "Number of data nodes in the cluster",$/;"	s	object:panels.4
+description	SGW-Grafana-Dashboard.json	/^  "description": "Stats",$/;"	s
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.10
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.11
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.12
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.2
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.20
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.21
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.22
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.23
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.24
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.25
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.26
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.3
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.4
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.5
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.7
+editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.8
+editable	SGW-Grafana-Dashboard.json	/^  "editable": true,$/;"	b
+enable	SGW-Grafana-Dashboard.json	/^        "enable": true,$/;"	b	object:annotations.list.0
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.10
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.11
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.12
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.2
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.20
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.21
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.22
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.23
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.24
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.25
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.26
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.3
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.4
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.5
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.7
+error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.8
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "(rate(com_opster_mclb_new_total_reactor_netty_http_client_data_received_time_/;"	s	object:panels.10.targets.3
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "(rate(com_opster_mclb_new_total_reactor_netty_http_server_data_received_time_/;"	s	object:panels.11.targets.3
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "com_opster_mclb_cluster_health_backends",$/;"	s	object:panels.1.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "com_opster_mclb_jvm_threads_states_threads",$/;"	s	object:panels.26.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "com_opster_mclb_loadedBackend1",$/;"	s	object:panels.4.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "com_opster_mclb_new_operation_reactor_netty_http_server_data_received_bytes_s/;"	s	object:panels.8.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "com_opster_mclb_new_total_reactor_netty_http_server_data_received_bytes_sum{j/;"	s	object:panels.8.targets.1
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "com_opster_mclb_system_load_average_1m",$/;"	s	object:panels.22.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "increase(com_opster_mclb_new_total_reactor_netty_http_server_requests_total[1/;"	s	object:panels.17.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "rate(com_opster_mclb_cluster_health_backends[1m])",$/;"	s	object:panels.13.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "rate(com_opster_mclb_new_total_reactor_netty_http_client_data_received_time_s/;"	s	object:panels.10.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "rate(com_opster_mclb_new_total_reactor_netty_http_client_data_sent_time_secon/;"	s	object:panels.11.targets.2
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "rate(com_opster_mclb_new_total_reactor_netty_http_server_data_received_time_s/;"	s	object:panels.11.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "rate(com_opster_mclb_new_total_reactor_netty_http_server_data_sent_time_secon/;"	s	object:panels.10.targets.2
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "rate(com_opster_mclb_new_total_reactor_netty_http_server_internal_request_pro/;"	s	object:panels.11.targets.1
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "rate(com_opster_mclb_new_total_reactor_netty_http_server_internal_response_pr/;"	s	object:panels.10.targets.1
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum((rate(com_opster_mclb_new_operation_reactor_netty_http_server_data_receiv/;"	s	object:panels.3.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum((rate(com_opster_mclb_new_operation_reactor_netty_http_server_data_receiv/;"	s	object:panels.7.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum((rate(com_opster_mclb_new_total_reactor_netty_http_client_data_received_t/;"	s	object:panels.12.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum((rate(com_opster_mclb_new_total_reactor_netty_http_server_data_received_t/;"	s	object:panels.12.targets.1
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(com_opster_mclb_jvm_memory_committed_bytes) by (area,pod) ",$/;"	s	object:panels.21.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(com_opster_mclb_jvm_memory_used_bytes) by (instance)",$/;"	s	object:panels.20.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(increase(com_opster_mclb_new_tenant_operation_reactor_netty_http_client_s/;"	s	object:panels.9.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(increase(com_opster_mclb_new_tenant_operation_reactor_netty_http_server_r/;"	s	object:panels.18.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(increase(com_opster_mclb_new_total_reactor_netty_http_server_requests_tot/;"	s	object:panels.5.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(increase(com_opster_mclb_new_total_reactor_netty_http_server_requests_tot/;"	s	object:panels.6.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(node_namespace_pod_container:container_cpu_usage_seconds_total:sum_rate{n/;"	s	object:panels.23.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_jvm_gc_memory_allocated_bytes_total[1m])) by (pod)",$/;"	s	object:panels.25.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_jvm_gc_memory_promoted_bytes_total[1m])) by (pod)",$/;"	s	object:panels.25.targets.1
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_jvm_gc_pause_seconds_count[1m])) by (cause)",$/;"	s	object:panels.24.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_new_operation_reactor_netty_http_client_data_receive/;"	s	object:panels.15.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_new_operation_reactor_netty_http_server_data_sent_by/;"	s	object:panels.16.targets.0
+expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_new_total_reactor_netty_http_client_status_total{sta/;"	s	object:panels.2.targets.0
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 0,$/;"	n	object:panels.21
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.10
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.11
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.12
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.13
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.15
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.16
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.17
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.18
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.20
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.22
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.23
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.24
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.25
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.26
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.6
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.7
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.8
+fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.9
+fillColor	SGW-Grafana-Dashboard.json	/^        "fillColor": "rgba(31, 118, 189, 0.18)",$/;"	s	object:panels.1.sparkline
+fillColor	SGW-Grafana-Dashboard.json	/^        "fillColor": "rgba(31, 118, 189, 0.18)",$/;"	s	object:panels.2.sparkline
+fillColor	SGW-Grafana-Dashboard.json	/^        "fillColor": "rgba(31, 118, 189, 0.18)",$/;"	s	object:panels.3.sparkline
+fillColor	SGW-Grafana-Dashboard.json	/^        "fillColor": "rgba(31, 118, 189, 0.18)",$/;"	s	object:panels.4.sparkline
+fillColor	SGW-Grafana-Dashboard.json	/^        "fillColor": "rgba(31, 118, 189, 0.18)",$/;"	s	object:panels.5.sparkline
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.10
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.11
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.12
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.13
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.15
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.16
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.17
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.18
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.20
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.21
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.22
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.23
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.24
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.25
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.26
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.6
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.7
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.8
+fillGradient	SGW-Grafana-Dashboard.json	/^      "fillGradient": 0,$/;"	n	object:panels.9
+format	SGW-Grafana-Dashboard.json	/^          "format": "bytes",$/;"	s	object:panels.15.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "bytes",$/;"	s	object:panels.16.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "bytes",$/;"	s	object:panels.20.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "bytes",$/;"	s	object:panels.21.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "bytes",$/;"	s	object:panels.25.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "bytes",$/;"	s	object:panels.8.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "percent",$/;"	s	object:panels.23.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "s",$/;"	s	object:panels.10.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "s",$/;"	s	object:panels.11.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "s",$/;"	s	object:panels.12.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "s",$/;"	s	object:panels.24.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "s",$/;"	s	object:panels.7.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.10.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.11.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.12.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.13.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.13.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.15.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.16.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.17.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.17.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.18.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.18.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.20.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.21.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.22.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.22.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.23.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.24.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.25.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.26.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.26.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.6.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.6.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.7.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.8.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.9.yaxes.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "short",$/;"	s	object:panels.9.yaxes.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.1.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.10.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.10.targets.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.10.targets.2
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.10.targets.3
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.11.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.11.targets.1
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.11.targets.2
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.11.targets.3
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.2.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.20.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.21.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.22.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.23.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.24.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.25.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.26.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.3.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.4.targets.0
+format	SGW-Grafana-Dashboard.json	/^          "format": "time_series",$/;"	s	object:panels.5.targets.0
+format	SGW-Grafana-Dashboard.json	/^      "format": "ms",$/;"	s	object:panels.3
+format	SGW-Grafana-Dashboard.json	/^      "format": "none",$/;"	s	object:panels.1
+format	SGW-Grafana-Dashboard.json	/^      "format": "percentunit",$/;"	s	object:panels.2
+format	SGW-Grafana-Dashboard.json	/^      "format": "short",$/;"	s	object:panels.4
+format	SGW-Grafana-Dashboard.json	/^      "format": "short",$/;"	s	object:panels.5
+from	SGW-Grafana-Dashboard.json	/^          "from": "0",$/;"	s	object:panels.1.rangeMaps.0
+from	SGW-Grafana-Dashboard.json	/^          "from": "1",$/;"	s	object:panels.1.rangeMaps.1
+from	SGW-Grafana-Dashboard.json	/^          "from": "null",$/;"	s	object:panels.2.rangeMaps.0
+from	SGW-Grafana-Dashboard.json	/^          "from": "null",$/;"	s	object:panels.3.rangeMaps.0
+from	SGW-Grafana-Dashboard.json	/^          "from": "null",$/;"	s	object:panels.4.rangeMaps.0
+from	SGW-Grafana-Dashboard.json	/^          "from": "null",$/;"	s	object:panels.5.rangeMaps.0
+from	SGW-Grafana-Dashboard.json	/^    "from": "now-5m",$/;"	s	object:time
+full	SGW-Grafana-Dashboard.json	/^        "full": false,$/;"	b	object:panels.4.sparkline
+full	SGW-Grafana-Dashboard.json	/^        "full": true,$/;"	b	object:panels.1.sparkline
+full	SGW-Grafana-Dashboard.json	/^        "full": true,$/;"	b	object:panels.2.sparkline
+full	SGW-Grafana-Dashboard.json	/^        "full": true,$/;"	b	object:panels.3.sparkline
+full	SGW-Grafana-Dashboard.json	/^        "full": true,$/;"	b	object:panels.5.sparkline
+gauge	SGW-Grafana-Dashboard.json	/^      "gauge": {$/;"	o	object:panels.1
+gauge	SGW-Grafana-Dashboard.json	/^      "gauge": {$/;"	o	object:panels.2
+gauge	SGW-Grafana-Dashboard.json	/^      "gauge": {$/;"	o	object:panels.3
+gauge	SGW-Grafana-Dashboard.json	/^      "gauge": {$/;"	o	object:panels.4
+gauge	SGW-Grafana-Dashboard.json	/^      "gauge": {$/;"	o	object:panels.5
+gnetId	SGW-Grafana-Dashboard.json	/^  "gnetId": 2322,$/;"	n
+graphTooltip	SGW-Grafana-Dashboard.json	/^  "graphTooltip": 1,$/;"	n
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.10
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.11
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.12
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.20
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.21
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.22
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.23
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.24
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.25
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.26
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.7
+grid	SGW-Grafana-Dashboard.json	/^      "grid": {},$/;"	o	object:panels.8
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.0
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.1
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.10
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.11
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.12
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.13
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.14
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.15
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.16
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.17
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.18
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.19
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.2
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.20
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.21
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.22
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.23
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.24
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.25
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.26
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.3
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.4
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.5
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.6
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.7
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.8
+gridPos	SGW-Grafana-Dashboard.json	/^      "gridPos": {$/;"	o	object:panels.9
+h	SGW-Grafana-Dashboard.json	/^        "h": 1,$/;"	n	object:panels.0.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 1,$/;"	n	object:panels.14.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 1,$/;"	n	object:panels.19.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 10,$/;"	n	object:panels.17.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 10,$/;"	n	object:panels.18.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 11,$/;"	n	object:panels.15.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 11,$/;"	n	object:panels.16.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 11,$/;"	n	object:panels.20.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 11,$/;"	n	object:panels.21.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 11,$/;"	n	object:panels.22.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 11,$/;"	n	object:panels.23.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 11,$/;"	n	object:panels.24.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 11,$/;"	n	object:panels.25.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 11,$/;"	n	object:panels.26.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 13,$/;"	n	object:panels.10.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 13,$/;"	n	object:panels.11.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 13,$/;"	n	object:panels.12.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 13,$/;"	n	object:panels.13.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 13,$/;"	n	object:panels.6.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 13,$/;"	n	object:panels.7.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 13,$/;"	n	object:panels.8.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 13,$/;"	n	object:panels.9.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 3,$/;"	n	object:panels.1.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 3,$/;"	n	object:panels.2.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 3,$/;"	n	object:panels.3.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 3,$/;"	n	object:panels.4.gridPos
+h	SGW-Grafana-Dashboard.json	/^        "h": 3,$/;"	n	object:panels.5.gridPos
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.10
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.11
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.12
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.20
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.21
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.22
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.23
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.24
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.25
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.26
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.7
+height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.8
+height	SGW-Grafana-Dashboard.json	/^      "height": "50",$/;"	s	object:panels.1
+height	SGW-Grafana-Dashboard.json	/^      "height": "50",$/;"	s	object:panels.2
+height	SGW-Grafana-Dashboard.json	/^      "height": "50",$/;"	s	object:panels.3
+height	SGW-Grafana-Dashboard.json	/^      "height": "50",$/;"	s	object:panels.4
+height	SGW-Grafana-Dashboard.json	/^      "height": "50",$/;"	s	object:panels.5
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.10
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.11
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.12
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.13
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.15
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.16
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.17
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.18
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.20
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.21
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.22
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.23
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.24
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.25
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.26
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.6
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.7
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.8
+hiddenSeries	SGW-Grafana-Dashboard.json	/^      "hiddenSeries": false,$/;"	b	object:panels.9
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.10.targets.0
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.10.targets.1
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.10.targets.2
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.10.targets.3
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.11.targets.0
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.11.targets.1
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.11.targets.2
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.11.targets.3
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.21.targets.0
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.24.targets.0
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.25.targets.0
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.26.targets.0
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.3.targets.0
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.8.targets.0
+hide	SGW-Grafana-Dashboard.json	/^          "hide": false,$/;"	b	object:panels.8.targets.1
+hide	SGW-Grafana-Dashboard.json	/^        "hide": 0,$/;"	n	object:templating.list.0
+hide	SGW-Grafana-Dashboard.json	/^        "hide": true,$/;"	b	object:annotations.list.0
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.10.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.11.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.12.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.20.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.21.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.22.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.23.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.24.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.25.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.26.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.7.legend
+hideEmpty	SGW-Grafana-Dashboard.json	/^        "hideEmpty": false,$/;"	b	object:panels.8.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.10.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.11.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.12.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.20.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.21.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.22.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.23.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.24.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.25.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.26.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": false,$/;"	b	object:panels.7.legend
+hideZero	SGW-Grafana-Dashboard.json	/^        "hideZero": true,$/;"	b	object:panels.8.legend
+iconColor	SGW-Grafana-Dashboard.json	/^        "iconColor": "rgba(0, 211, 255, 1)",$/;"	s	object:annotations.list.0
+id	SGW-Grafana-Dashboard.json	/^      "id": 103,$/;"	n	object:panels.14
+id	SGW-Grafana-Dashboard.json	/^      "id": 106,$/;"	n	object:panels.15
+id	SGW-Grafana-Dashboard.json	/^      "id": 109,$/;"	n	object:panels.16
+id	SGW-Grafana-Dashboard.json	/^      "id": 116,$/;"	n	object:panels.25
+id	SGW-Grafana-Dashboard.json	/^      "id": 121,$/;"	n	object:panels.17
+id	SGW-Grafana-Dashboard.json	/^      "id": 122,$/;"	n	object:panels.18
+id	SGW-Grafana-Dashboard.json	/^      "id": 123,$/;"	n	object:panels.26
+id	SGW-Grafana-Dashboard.json	/^      "id": 124,$/;"	n	object:panels.7
+id	SGW-Grafana-Dashboard.json	/^      "id": 126,$/;"	n	object:panels.6
+id	SGW-Grafana-Dashboard.json	/^      "id": 128,$/;"	n	object:panels.8
+id	SGW-Grafana-Dashboard.json	/^      "id": 130,$/;"	n	object:panels.9
+id	SGW-Grafana-Dashboard.json	/^      "id": 132,$/;"	n	object:panels.11
+id	SGW-Grafana-Dashboard.json	/^      "id": 134,$/;"	n	object:panels.10
+id	SGW-Grafana-Dashboard.json	/^      "id": 136,$/;"	n	object:panels.12
+id	SGW-Grafana-Dashboard.json	/^      "id": 138,$/;"	n	object:panels.13
+id	SGW-Grafana-Dashboard.json	/^      "id": 27,$/;"	n	object:panels.20
+id	SGW-Grafana-Dashboard.json	/^      "id": 30,$/;"	n	object:panels.22
+id	SGW-Grafana-Dashboard.json	/^      "id": 50,$/;"	n	object:panels.3
+id	SGW-Grafana-Dashboard.json	/^      "id": 51,$/;"	n	object:panels.2
+id	SGW-Grafana-Dashboard.json	/^      "id": 53,$/;"	n	object:panels.1
+id	SGW-Grafana-Dashboard.json	/^      "id": 54,$/;"	n	object:panels.21
+id	SGW-Grafana-Dashboard.json	/^      "id": 7,$/;"	n	object:panels.24
+id	SGW-Grafana-Dashboard.json	/^      "id": 88,$/;"	n	object:panels.23
+id	SGW-Grafana-Dashboard.json	/^      "id": 89,$/;"	n	object:panels.5
+id	SGW-Grafana-Dashboard.json	/^      "id": 9,$/;"	n	object:panels.4
+id	SGW-Grafana-Dashboard.json	/^      "id": 90,$/;"	n	object:panels.0
+id	SGW-Grafana-Dashboard.json	/^      "id": 95,$/;"	n	object:panels.19
+instant	SGW-Grafana-Dashboard.json	/^          "instant": false,$/;"	b	object:panels.22.targets.0
+instant	SGW-Grafana-Dashboard.json	/^          "instant": false,$/;"	b	object:panels.23.targets.0
+instant	SGW-Grafana-Dashboard.json	/^          "instant": true,$/;"	b	object:panels.1.targets.0
+instant	SGW-Grafana-Dashboard.json	/^          "instant": true,$/;"	b	object:panels.2.targets.0
+instant	SGW-Grafana-Dashboard.json	/^          "instant": true,$/;"	b	object:panels.3.targets.0
+instant	SGW-Grafana-Dashboard.json	/^          "instant": true,$/;"	b	object:panels.4.targets.0
+instant	SGW-Grafana-Dashboard.json	/^          "instant": true,$/;"	b	object:panels.5.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.10.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.10.targets.1
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.10.targets.2
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.10.targets.3
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.11.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.11.targets.1
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.11.targets.2
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.11.targets.3
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.2.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.20.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.22.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.23.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.24.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.25.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.26.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.3.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.4.targets.0
+interval	SGW-Grafana-Dashboard.json	/^          "interval": "",$/;"	s	object:panels.5.targets.0
+interval	SGW-Grafana-Dashboard.json	/^      "interval": null,$/;"	z	object:panels.1
+interval	SGW-Grafana-Dashboard.json	/^      "interval": null,$/;"	z	object:panels.2
+interval	SGW-Grafana-Dashboard.json	/^      "interval": null,$/;"	z	object:panels.3
+interval	SGW-Grafana-Dashboard.json	/^      "interval": null,$/;"	z	object:panels.4
+interval	SGW-Grafana-Dashboard.json	/^      "interval": null,$/;"	z	object:panels.5
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.1.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.10.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.10.targets.1
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.10.targets.2
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.10.targets.3
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.11.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.11.targets.1
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.11.targets.2
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.11.targets.3
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.2.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.20.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.21.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.22.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.23.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.24.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.25.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.26.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.3.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.4.targets.0
+intervalFactor	SGW-Grafana-Dashboard.json	/^          "intervalFactor": 2,$/;"	n	object:panels.5.targets.0
+iteration	SGW-Grafana-Dashboard.json	/^  "iteration": 1603730027719,$/;"	n
+label	SGW-Grafana-Dashboard.json	/^          "label": "CPU usage",$/;"	s	object:panels.23.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "Count",$/;"	s	object:panels.26.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "GCs",$/;"	s	object:panels.24.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "GCs",$/;"	s	object:panels.25.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "Load",$/;"	s	object:panels.22.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "Memory",$/;"	s	object:panels.21.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "Operations\/s",$/;"	s	object:panels.8.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "Time",$/;"	s	object:panels.10.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "Time",$/;"	s	object:panels.11.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "Time",$/;"	s	object:panels.12.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "Time",$/;"	s	object:panels.20.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": "Time",$/;"	s	object:panels.7.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.10.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.11.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.12.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.13.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.13.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.15.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.15.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.16.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.16.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.17.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.17.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.18.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.18.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.20.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.21.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.22.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.23.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.24.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.25.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.26.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.6.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.6.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.7.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.8.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.9.yaxes.0
+label	SGW-Grafana-Dashboard.json	/^          "label": null,$/;"	z	object:panels.9.yaxes.1
+label	SGW-Grafana-Dashboard.json	/^        "label": "interval",$/;"	s	object:templating.list.0
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.10
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.11
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.12
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.13
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.15
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.16
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.17
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.18
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.20
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.21
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.22
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.23
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.24
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.25
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.26
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.6
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.7
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.8
+legend	SGW-Grafana-Dashboard.json	/^      "legend": {$/;"	o	object:panels.9
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "",$/;"	s	object:panels.1.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "",$/;"	s	object:panels.2.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "",$/;"	s	object:panels.3.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "",$/;"	s	object:panels.4.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "",$/;"	s	object:panels.5.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "Backend: {{backend}}",$/;"	s	object:panels.13.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "SGW Latency",$/;"	s	object:panels.12.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "Total Time",$/;"	s	object:panels.12.targets.1
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "pod: {{pod}} Tenant: {{tenant}}",$/;"	s	object:panels.18.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "pod: {{pod}} op: {{operation_type}}",$/;"	s	object:panels.16.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "processing time",$/;"	s	object:panels.10.targets.1
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "processing time",$/;"	s	object:panels.11.targets.1
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "receive time",$/;"	s	object:panels.11.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "received time",$/;"	s	object:panels.10.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "requests",$/;"	s	object:panels.17.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "sent time",$/;"	s	object:panels.10.targets.2
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "sent time",$/;"	s	object:panels.11.targets.2
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "status: {{status}}",$/;"	s	object:panels.9.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "total",$/;"	s	object:panels.10.targets.3
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "total",$/;"	s	object:panels.11.targets.3
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "total",$/;"	s	object:panels.8.targets.1
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{cause}}",$/;"	s	object:panels.24.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{instance}}",$/;"	s	object:panels.20.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{operation_type}}",$/;"	s	object:panels.8.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{pod}} - {{operation_type}}",$/;"	s	object:panels.15.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{pod}} old",$/;"	s	object:panels.25.targets.1
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{pod}} young",$/;"	s	object:panels.25.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{pod}} {{area}}",$/;"	s	object:panels.21.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{pod}}",$/;"	s	object:panels.22.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{pod}}",$/;"	s	object:panels.23.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{pod}}",$/;"	s	object:panels.6.targets.0
+legendFormat	SGW-Grafana-Dashboard.json	/^          "legendFormat": "{{state}}",$/;"	s	object:panels.26.targets.0
+lineColor	SGW-Grafana-Dashboard.json	/^        "lineColor": "rgb(31, 120, 193)",$/;"	s	object:panels.1.sparkline
+lineColor	SGW-Grafana-Dashboard.json	/^        "lineColor": "rgb(31, 120, 193)",$/;"	s	object:panels.2.sparkline
+lineColor	SGW-Grafana-Dashboard.json	/^        "lineColor": "rgb(31, 120, 193)",$/;"	s	object:panels.3.sparkline
+lineColor	SGW-Grafana-Dashboard.json	/^        "lineColor": "rgb(31, 120, 193)",$/;"	s	object:panels.4.sparkline
+lineColor	SGW-Grafana-Dashboard.json	/^        "lineColor": "rgb(31, 120, 193)",$/;"	s	object:panels.5.sparkline
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.10
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.11
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.12
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.13
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.15
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.16
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.17
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.18
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.20
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.21
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.22
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.23
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.24
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.25
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.26
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.6
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.7
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.8
+lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.9
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.10
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.11
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.12
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.13
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.15
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.16
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.17
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.18
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.20
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.21
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.22
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.23
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.24
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.25
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.26
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.6
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.7
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.8
+linewidth	SGW-Grafana-Dashboard.json	/^      "linewidth": 1,$/;"	n	object:panels.9
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.1
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.10
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.11
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.12
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.2
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.20
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.21
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.22
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.23
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.24
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.25
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.26
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.3
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.4
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.5
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.7
+links	SGW-Grafana-Dashboard.json	/^      "links": [],$/;"	a	object:panels.8
+links	SGW-Grafana-Dashboard.json	/^  "links": [],$/;"	a
+list	SGW-Grafana-Dashboard.json	/^    "list": [$/;"	a	object:annotations
+list	SGW-Grafana-Dashboard.json	/^    "list": [$/;"	a	object:templating
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.10.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.10.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.11.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.11.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.12.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.12.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.13.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.13.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.15.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.15.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.16.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.16.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.17.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.17.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.18.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.18.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.20.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.20.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.21.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.21.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.22.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.22.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.23.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.23.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.24.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.24.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.25.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.25.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.26.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.26.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.6.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.6.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.7.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.7.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.8.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.8.yaxes.1
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.9.yaxes.0
+logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.9.yaxes.1
+mappingType	SGW-Grafana-Dashboard.json	/^      "mappingType": 1,$/;"	n	object:panels.2
+mappingType	SGW-Grafana-Dashboard.json	/^      "mappingType": 1,$/;"	n	object:panels.3
+mappingType	SGW-Grafana-Dashboard.json	/^      "mappingType": 1,$/;"	n	object:panels.4
+mappingType	SGW-Grafana-Dashboard.json	/^      "mappingType": 1,$/;"	n	object:panels.5
+mappingType	SGW-Grafana-Dashboard.json	/^      "mappingType": 2,$/;"	n	object:panels.1
+mappingTypes	SGW-Grafana-Dashboard.json	/^      "mappingTypes": [$/;"	a	object:panels.1
+mappingTypes	SGW-Grafana-Dashboard.json	/^      "mappingTypes": [$/;"	a	object:panels.2
+mappingTypes	SGW-Grafana-Dashboard.json	/^      "mappingTypes": [$/;"	a	object:panels.3
+mappingTypes	SGW-Grafana-Dashboard.json	/^      "mappingTypes": [$/;"	a	object:panels.4
+mappingTypes	SGW-Grafana-Dashboard.json	/^      "mappingTypes": [$/;"	a	object:panels.5
+max	SGW-Grafana-Dashboard.json	/^          "max": 100,$/;"	n	object:panels.23.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.10.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.10.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.11.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.11.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.12.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.12.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.13.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.13.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.15.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.15.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.16.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.16.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.17.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.17.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.18.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.18.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.20.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.20.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.21.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.21.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.22.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.22.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.23.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.24.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.24.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.25.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.25.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.26.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.26.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.6.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.6.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.7.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.7.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.8.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.8.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.9.yaxes.0
+max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.9.yaxes.1
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.10.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.11.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.12.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.13.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.15.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.16.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.17.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.18.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.20.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.21.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.23.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.24.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.25.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.26.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.6.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.7.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.8.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": false,$/;"	b	object:panels.9.legend
+max	SGW-Grafana-Dashboard.json	/^        "max": true,$/;"	b	object:panels.22.legend
+maxDataPoints	SGW-Grafana-Dashboard.json	/^      "maxDataPoints": 100,$/;"	n	object:panels.1
+maxDataPoints	SGW-Grafana-Dashboard.json	/^      "maxDataPoints": 100,$/;"	n	object:panels.2
+maxDataPoints	SGW-Grafana-Dashboard.json	/^      "maxDataPoints": 100,$/;"	n	object:panels.3
+maxDataPoints	SGW-Grafana-Dashboard.json	/^      "maxDataPoints": 100,$/;"	n	object:panels.4
+maxDataPoints	SGW-Grafana-Dashboard.json	/^      "maxDataPoints": 100,$/;"	n	object:panels.5
+maxValue	SGW-Grafana-Dashboard.json	/^        "maxValue": 100,$/;"	n	object:panels.1.gauge
+maxValue	SGW-Grafana-Dashboard.json	/^        "maxValue": 100,$/;"	n	object:panels.2.gauge
+maxValue	SGW-Grafana-Dashboard.json	/^        "maxValue": 100,$/;"	n	object:panels.3.gauge
+maxValue	SGW-Grafana-Dashboard.json	/^        "maxValue": 100,$/;"	n	object:panels.4.gauge
+maxValue	SGW-Grafana-Dashboard.json	/^        "maxValue": 100,$/;"	n	object:panels.5.gauge
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.10.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.10.targets.1
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.10.targets.2
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.10.targets.3
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.11.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.11.targets.1
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.11.targets.2
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.11.targets.3
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.2.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.20.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.22.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.23.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.24.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.25.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.26.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.3.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.4.targets.0
+metric	SGW-Grafana-Dashboard.json	/^          "metric": "",$/;"	s	object:panels.5.targets.0
+min	SGW-Grafana-Dashboard.json	/^          "min": 0,$/;"	n	object:panels.21.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": 0,$/;"	n	object:panels.22.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": 0,$/;"	n	object:panels.23.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.10.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.10.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.11.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.11.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.12.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.12.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.13.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.13.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.15.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.15.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.16.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.16.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.17.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.17.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.18.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.18.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.20.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.20.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.21.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.22.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.23.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.24.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.24.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.25.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.25.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.26.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.26.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.6.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.6.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.7.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.7.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.8.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.8.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.9.yaxes.0
+min	SGW-Grafana-Dashboard.json	/^          "min": null,$/;"	z	object:panels.9.yaxes.1
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.10.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.11.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.12.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.13.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.15.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.16.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.17.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.18.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.20.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.21.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.23.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.24.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.25.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.26.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.6.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.7.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.8.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": false,$/;"	b	object:panels.9.legend
+min	SGW-Grafana-Dashboard.json	/^        "min": true,$/;"	b	object:panels.22.legend
+minValue	SGW-Grafana-Dashboard.json	/^        "minValue": 0,$/;"	n	object:panels.1.gauge
+minValue	SGW-Grafana-Dashboard.json	/^        "minValue": 0,$/;"	n	object:panels.2.gauge
+minValue	SGW-Grafana-Dashboard.json	/^        "minValue": 0,$/;"	n	object:panels.3.gauge
+minValue	SGW-Grafana-Dashboard.json	/^        "minValue": 0,$/;"	n	object:panels.4.gauge
+minValue	SGW-Grafana-Dashboard.json	/^        "minValue": 0,$/;"	n	object:panels.5.gauge
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.10.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.11.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.12.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.13.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.15.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.16.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.17.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.18.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.20.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.21.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.22.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.23.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.24.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.25.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.26.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.6.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.7.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.8.xaxis
+mode	SGW-Grafana-Dashboard.json	/^        "mode": "time",$/;"	s	object:panels.9.xaxis
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.10.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.11.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.12.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.20.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.21.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.22.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.23.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.24.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.25.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.26.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.7.tooltip
+msResolution	SGW-Grafana-Dashboard.json	/^        "msResolution": false,$/;"	b	object:panels.8.tooltip
+name	SGW-Grafana-Dashboard.json	/^          "name": "range to text",$/;"	s	object:panels.1.mappingTypes.1
+name	SGW-Grafana-Dashboard.json	/^          "name": "range to text",$/;"	s	object:panels.2.mappingTypes.1
+name	SGW-Grafana-Dashboard.json	/^          "name": "range to text",$/;"	s	object:panels.3.mappingTypes.1
+name	SGW-Grafana-Dashboard.json	/^          "name": "range to text",$/;"	s	object:panels.4.mappingTypes.1
+name	SGW-Grafana-Dashboard.json	/^          "name": "range to text",$/;"	s	object:panels.5.mappingTypes.1
+name	SGW-Grafana-Dashboard.json	/^          "name": "value to text",$/;"	s	object:panels.1.mappingTypes.0
+name	SGW-Grafana-Dashboard.json	/^          "name": "value to text",$/;"	s	object:panels.2.mappingTypes.0
+name	SGW-Grafana-Dashboard.json	/^          "name": "value to text",$/;"	s	object:panels.3.mappingTypes.0
+name	SGW-Grafana-Dashboard.json	/^          "name": "value to text",$/;"	s	object:panels.4.mappingTypes.0
+name	SGW-Grafana-Dashboard.json	/^          "name": "value to text",$/;"	s	object:panels.5.mappingTypes.0
+name	SGW-Grafana-Dashboard.json	/^        "name": "Annotations & Alerts",$/;"	s	object:annotations.list.0
+name	SGW-Grafana-Dashboard.json	/^        "name": "interval",$/;"	s	object:templating.list.0
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.10.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.11.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.12.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.13.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.15.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.16.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.17.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.18.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.20.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.21.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.22.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.23.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.24.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.25.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.26.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.6.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.7.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.8.xaxis
+name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.9.xaxis
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.1
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.10
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.11
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.12
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.2
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.20
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.21
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.22
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.23
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.24
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.25
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.26
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.3
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.4
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.5
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.7
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.8
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "null",$/;"	s	object:panels.13
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "null",$/;"	s	object:panels.15
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "null",$/;"	s	object:panels.16
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "null",$/;"	s	object:panels.17
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "null",$/;"	s	object:panels.18
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "null",$/;"	s	object:panels.6
+nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "null",$/;"	s	object:panels.9
+nullText	SGW-Grafana-Dashboard.json	/^      "nullText": null,$/;"	z	object:panels.1
+nullText	SGW-Grafana-Dashboard.json	/^      "nullText": null,$/;"	z	object:panels.2
+nullText	SGW-Grafana-Dashboard.json	/^      "nullText": null,$/;"	z	object:panels.3
+nullText	SGW-Grafana-Dashboard.json	/^      "nullText": null,$/;"	z	object:panels.4
+nullText	SGW-Grafana-Dashboard.json	/^      "nullText": null,$/;"	z	object:panels.5
+op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.1.valueMaps.0
+op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.1.valueMaps.1
+op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.1.valueMaps.2
+op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.1.valueMaps.3
+op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.2.valueMaps.0
+op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.3.valueMaps.0
+op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.4.valueMaps.0
+op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.4.valueMaps.1
+op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.4.valueMaps.2
+options	SGW-Grafana-Dashboard.json	/^        "options": [$/;"	a	object:templating.list.0
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.10
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.11
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.12
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.13
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.15
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.16
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.17
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.18
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.20
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.21
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.22
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.23
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.24
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.25
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.26
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.6
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.7
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.8
+options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.9
+options	SGW-Grafana-Dashboard.json	/^      "options": {},$/;"	o	object:panels.1
+options	SGW-Grafana-Dashboard.json	/^      "options": {},$/;"	o	object:panels.2
+options	SGW-Grafana-Dashboard.json	/^      "options": {},$/;"	o	object:panels.3
+options	SGW-Grafana-Dashboard.json	/^      "options": {},$/;"	o	object:panels.4
+options	SGW-Grafana-Dashboard.json	/^      "options": {},$/;"	o	object:panels.5
+panels	SGW-Grafana-Dashboard.json	/^      "panels": [],$/;"	a	object:panels.0
+panels	SGW-Grafana-Dashboard.json	/^      "panels": [],$/;"	a	object:panels.14
+panels	SGW-Grafana-Dashboard.json	/^      "panels": [],$/;"	a	object:panels.19
+panels	SGW-Grafana-Dashboard.json	/^  "panels": [$/;"	a
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.10
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.11
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.12
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.13
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.15
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.16
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.17
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.18
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.20
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.21
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.22
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.23
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.24
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.25
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.26
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.6
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.7
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.8
+percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.9
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 2,$/;"	n	object:panels.13
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 2,$/;"	n	object:panels.15
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 2,$/;"	n	object:panels.16
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 2,$/;"	n	object:panels.17
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 2,$/;"	n	object:panels.18
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 2,$/;"	n	object:panels.6
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 2,$/;"	n	object:panels.9
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.10
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.11
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.12
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.20
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.21
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.22
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.23
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.24
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.25
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.26
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.7
+pointradius	SGW-Grafana-Dashboard.json	/^      "pointradius": 5,$/;"	n	object:panels.8
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.10
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.11
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.12
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.13
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.15
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.16
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.17
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.18
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.20
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.21
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.22
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.23
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.24
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.25
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.26
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.6
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.7
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.8
+points	SGW-Grafana-Dashboard.json	/^      "points": false,$/;"	b	object:panels.9
+postfix	SGW-Grafana-Dashboard.json	/^      "postfix": "",$/;"	s	object:panels.1
+postfix	SGW-Grafana-Dashboard.json	/^      "postfix": "",$/;"	s	object:panels.2
+postfix	SGW-Grafana-Dashboard.json	/^      "postfix": "",$/;"	s	object:panels.3
+postfix	SGW-Grafana-Dashboard.json	/^      "postfix": "",$/;"	s	object:panels.4
+postfix	SGW-Grafana-Dashboard.json	/^      "postfix": "",$/;"	s	object:panels.5
+postfixFontSize	SGW-Grafana-Dashboard.json	/^      "postfixFontSize": "50%",$/;"	s	object:panels.1
+postfixFontSize	SGW-Grafana-Dashboard.json	/^      "postfixFontSize": "50%",$/;"	s	object:panels.2
+postfixFontSize	SGW-Grafana-Dashboard.json	/^      "postfixFontSize": "50%",$/;"	s	object:panels.3
+postfixFontSize	SGW-Grafana-Dashboard.json	/^      "postfixFontSize": "50%",$/;"	s	object:panels.4
+postfixFontSize	SGW-Grafana-Dashboard.json	/^      "postfixFontSize": "50%",$/;"	s	object:panels.5
+prefix	SGW-Grafana-Dashboard.json	/^      "prefix": "",$/;"	s	object:panels.1
+prefix	SGW-Grafana-Dashboard.json	/^      "prefix": "",$/;"	s	object:panels.2
+prefix	SGW-Grafana-Dashboard.json	/^      "prefix": "",$/;"	s	object:panels.3
+prefix	SGW-Grafana-Dashboard.json	/^      "prefix": "",$/;"	s	object:panels.4
+prefix	SGW-Grafana-Dashboard.json	/^      "prefix": "",$/;"	s	object:panels.5
+prefixFontSize	SGW-Grafana-Dashboard.json	/^      "prefixFontSize": "50%",$/;"	s	object:panels.1
+prefixFontSize	SGW-Grafana-Dashboard.json	/^      "prefixFontSize": "50%",$/;"	s	object:panels.2
+prefixFontSize	SGW-Grafana-Dashboard.json	/^      "prefixFontSize": "50%",$/;"	s	object:panels.3
+prefixFontSize	SGW-Grafana-Dashboard.json	/^      "prefixFontSize": "50%",$/;"	s	object:panels.4
+prefixFontSize	SGW-Grafana-Dashboard.json	/^      "prefixFontSize": "50%",$/;"	s	object:panels.5
+query	SGW-Grafana-Dashboard.json	/^        "query": "1m,10m,30m,1h,6h,12h,1d,7d,14d,30d",$/;"	s	object:templating.list.0
+rangeMaps	SGW-Grafana-Dashboard.json	/^      "rangeMaps": [$/;"	a	object:panels.1
+rangeMaps	SGW-Grafana-Dashboard.json	/^      "rangeMaps": [$/;"	a	object:panels.2
+rangeMaps	SGW-Grafana-Dashboard.json	/^      "rangeMaps": [$/;"	a	object:panels.3
+rangeMaps	SGW-Grafana-Dashboard.json	/^      "rangeMaps": [$/;"	a	object:panels.4
+rangeMaps	SGW-Grafana-Dashboard.json	/^      "rangeMaps": [$/;"	a	object:panels.5
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.1.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.12.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.13.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.15.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.16.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.17.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.18.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.6.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.7.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.8.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A"$/;"	s	object:panels.9.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.10.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.11.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.2.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.20.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.24.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.25.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.26.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.3.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.4.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "A",$/;"	s	object:panels.5.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "B"$/;"	s	object:panels.12.targets.1
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "B"$/;"	s	object:panels.25.targets.1
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "B"$/;"	s	object:panels.8.targets.1
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "B",$/;"	s	object:panels.10.targets.1
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "B",$/;"	s	object:panels.11.targets.1
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "B",$/;"	s	object:panels.21.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "B",$/;"	s	object:panels.22.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "B",$/;"	s	object:panels.23.targets.0
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "C",$/;"	s	object:panels.10.targets.2
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "C",$/;"	s	object:panels.11.targets.2
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "D",$/;"	s	object:panels.10.targets.3
+refId	SGW-Grafana-Dashboard.json	/^          "refId": "D",$/;"	s	object:panels.11.targets.3
+refresh	SGW-Grafana-Dashboard.json	/^        "refresh": 2,$/;"	n	object:templating.list.0
+refresh	SGW-Grafana-Dashboard.json	/^  "refresh": false,$/;"	b
+refresh_intervals	SGW-Grafana-Dashboard.json	/^    "refresh_intervals": [$/;"	a	object:timepicker
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.10
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.11
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.12
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.13
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.15
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.16
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.17
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.18
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.20
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.21
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.22
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.23
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.24
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.25
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.26
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.6
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.7
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.8
+renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.9
+repeat	SGW-Grafana-Dashboard.json	/^      "repeat": null,$/;"	z	object:panels.0
+repeat	SGW-Grafana-Dashboard.json	/^      "repeat": null,$/;"	z	object:panels.19
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.10.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.11.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.12.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.20.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.21.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.22.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.23.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.24.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.25.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.26.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.7.legend
+rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.8.legend
+schemaVersion	SGW-Grafana-Dashboard.json	/^  "schemaVersion": 22,$/;"	n
+selected	SGW-Grafana-Dashboard.json	/^            "selected": false,$/;"	b	object:templating.list.0.options.1
+selected	SGW-Grafana-Dashboard.json	/^            "selected": false,$/;"	b	object:templating.list.0.options.2
+selected	SGW-Grafana-Dashboard.json	/^            "selected": false,$/;"	b	object:templating.list.0.options.3
+selected	SGW-Grafana-Dashboard.json	/^            "selected": false,$/;"	b	object:templating.list.0.options.4
+selected	SGW-Grafana-Dashboard.json	/^            "selected": false,$/;"	b	object:templating.list.0.options.5
+selected	SGW-Grafana-Dashboard.json	/^            "selected": false,$/;"	b	object:templating.list.0.options.6
+selected	SGW-Grafana-Dashboard.json	/^            "selected": false,$/;"	b	object:templating.list.0.options.7
+selected	SGW-Grafana-Dashboard.json	/^            "selected": false,$/;"	b	object:templating.list.0.options.8
+selected	SGW-Grafana-Dashboard.json	/^            "selected": false,$/;"	b	object:templating.list.0.options.9
+selected	SGW-Grafana-Dashboard.json	/^            "selected": true,$/;"	b	object:templating.list.0.options.0
+selected	SGW-Grafana-Dashboard.json	/^          "selected": false,$/;"	b	object:templating.list.0.current
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.10
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.11
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.12
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.13
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.15
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.16
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.17
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.18
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.20
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.21
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.22
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.23
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.24
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.25
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.26
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.6
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.7
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.8
+seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.9
+sgw	README.md	/^# sgw$/;"	c
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.10.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.11.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.12.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.13.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.15.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.16.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.17.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.18.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.20.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.21.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.22.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.23.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.24.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.25.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.26.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.6.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.7.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.8.tooltip
+shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.9.tooltip
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.10.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.11.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.12.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.20.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.21.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.22.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.23.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.24.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.25.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.26.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.7.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": false$/;"	b	object:panels.8.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.10.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.11.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.12.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.13.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.13.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.15.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.15.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.16.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.16.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.17.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.17.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.18.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.18.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.20.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.21.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.22.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.23.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.24.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.25.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.26.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.6.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.6.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.7.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.8.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.9.yaxes.0
+show	SGW-Grafana-Dashboard.json	/^          "show": true$/;"	b	object:panels.9.yaxes.1
+show	SGW-Grafana-Dashboard.json	/^        "show": false$/;"	b	object:panels.1.sparkline
+show	SGW-Grafana-Dashboard.json	/^        "show": false$/;"	b	object:panels.4.sparkline
+show	SGW-Grafana-Dashboard.json	/^        "show": false$/;"	b	object:panels.5.sparkline
+show	SGW-Grafana-Dashboard.json	/^        "show": false,$/;"	b	object:panels.1.gauge
+show	SGW-Grafana-Dashboard.json	/^        "show": false,$/;"	b	object:panels.2.gauge
+show	SGW-Grafana-Dashboard.json	/^        "show": false,$/;"	b	object:panels.3.gauge
+show	SGW-Grafana-Dashboard.json	/^        "show": false,$/;"	b	object:panels.4.gauge
+show	SGW-Grafana-Dashboard.json	/^        "show": false,$/;"	b	object:panels.5.gauge
+show	SGW-Grafana-Dashboard.json	/^        "show": true$/;"	b	object:panels.2.sparkline
+show	SGW-Grafana-Dashboard.json	/^        "show": true$/;"	b	object:panels.3.sparkline
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.10.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.10.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.11.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.11.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.12.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.12.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.13.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.13.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.15.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.15.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.16.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.16.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.17.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.17.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.18.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.18.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.20.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.20.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.21.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.21.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.22.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.22.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.23.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.23.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.24.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.24.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.25.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.25.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.26.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.26.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.6.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.6.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.7.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.7.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.8.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.8.xaxis
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.9.legend
+show	SGW-Grafana-Dashboard.json	/^        "show": true,$/;"	b	object:panels.9.xaxis
+skipUrlSync	SGW-Grafana-Dashboard.json	/^        "skipUrlSync": false,$/;"	b	object:templating.list.0
+sort	SGW-Grafana-Dashboard.json	/^        "sort": "avg",$/;"	s	object:panels.20.legend
+sort	SGW-Grafana-Dashboard.json	/^        "sort": "avg",$/;"	s	object:panels.21.legend
+sort	SGW-Grafana-Dashboard.json	/^        "sort": "avg",$/;"	s	object:panels.22.legend
+sort	SGW-Grafana-Dashboard.json	/^        "sort": "avg",$/;"	s	object:panels.23.legend
+sort	SGW-Grafana-Dashboard.json	/^        "sort": "avg",$/;"	s	object:panels.24.legend
+sort	SGW-Grafana-Dashboard.json	/^        "sort": "avg",$/;"	s	object:panels.25.legend
+sort	SGW-Grafana-Dashboard.json	/^        "sort": "avg",$/;"	s	object:panels.26.legend
+sort	SGW-Grafana-Dashboard.json	/^        "sort": "avg",$/;"	s	object:panels.8.legend
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.10.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.11.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.12.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.13.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.15.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.16.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.17.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.18.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.6.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.7.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 0,$/;"	n	object:panels.9.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 2,$/;"	n	object:panels.20.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 2,$/;"	n	object:panels.21.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 2,$/;"	n	object:panels.22.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 2,$/;"	n	object:panels.23.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 2,$/;"	n	object:panels.24.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 2,$/;"	n	object:panels.25.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 2,$/;"	n	object:panels.26.tooltip
+sort	SGW-Grafana-Dashboard.json	/^        "sort": 2,$/;"	n	object:panels.8.tooltip
+sortDesc	SGW-Grafana-Dashboard.json	/^        "sortDesc": true,$/;"	b	object:panels.20.legend
+sortDesc	SGW-Grafana-Dashboard.json	/^        "sortDesc": true,$/;"	b	object:panels.21.legend
+sortDesc	SGW-Grafana-Dashboard.json	/^        "sortDesc": true,$/;"	b	object:panels.22.legend
+sortDesc	SGW-Grafana-Dashboard.json	/^        "sortDesc": true,$/;"	b	object:panels.23.legend
+sortDesc	SGW-Grafana-Dashboard.json	/^        "sortDesc": true,$/;"	b	object:panels.24.legend
+sortDesc	SGW-Grafana-Dashboard.json	/^        "sortDesc": true,$/;"	b	object:panels.25.legend
+sortDesc	SGW-Grafana-Dashboard.json	/^        "sortDesc": true,$/;"	b	object:panels.26.legend
+sortDesc	SGW-Grafana-Dashboard.json	/^        "sortDesc": true,$/;"	b	object:panels.8.legend
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.10
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.11
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.12
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.13
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.15
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.16
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.17
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.18
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.20
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.21
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.22
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.23
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.24
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.25
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.26
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.6
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.7
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.8
+spaceLength	SGW-Grafana-Dashboard.json	/^      "spaceLength": 10,$/;"	n	object:panels.9
+sparkline	SGW-Grafana-Dashboard.json	/^      "sparkline": {$/;"	o	object:panels.1
+sparkline	SGW-Grafana-Dashboard.json	/^      "sparkline": {$/;"	o	object:panels.2
+sparkline	SGW-Grafana-Dashboard.json	/^      "sparkline": {$/;"	o	object:panels.3
+sparkline	SGW-Grafana-Dashboard.json	/^      "sparkline": {$/;"	o	object:panels.4
+sparkline	SGW-Grafana-Dashboard.json	/^      "sparkline": {$/;"	o	object:panels.5
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.10
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.11
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.12
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.13
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.15
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.16
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.17
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.18
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.20
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.21
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.22
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.23
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.24
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.25
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.26
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.7
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.8
+stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.9
+stack	SGW-Grafana-Dashboard.json	/^      "stack": true,$/;"	b	object:panels.6
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.10.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.10.targets.1
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.10.targets.2
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.10.targets.3
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.11.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.11.targets.1
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.11.targets.2
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.11.targets.3
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.20.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.24.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.25.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.26.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 20$/;"	n	object:panels.21.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 20$/;"	n	object:panels.22.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 20$/;"	n	object:panels.23.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 60$/;"	n	object:panels.2.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 60$/;"	n	object:panels.3.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 60$/;"	n	object:panels.4.targets.0
+step	SGW-Grafana-Dashboard.json	/^          "step": 60$/;"	n	object:panels.5.targets.0
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.10
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.11
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.12
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.13
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.15
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.16
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.17
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.18
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.20
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.21
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.22
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.23
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.24
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.25
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.26
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.6
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.7
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.8
+steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.9
+style	SGW-Grafana-Dashboard.json	/^  "style": "dark",$/;"	s
+tableColumn	SGW-Grafana-Dashboard.json	/^      "tableColumn": "",$/;"	s	object:panels.1
+tableColumn	SGW-Grafana-Dashboard.json	/^      "tableColumn": "",$/;"	s	object:panels.2
+tableColumn	SGW-Grafana-Dashboard.json	/^      "tableColumn": "",$/;"	s	object:panels.3
+tableColumn	SGW-Grafana-Dashboard.json	/^      "tableColumn": "",$/;"	s	object:panels.4
+tableColumn	SGW-Grafana-Dashboard.json	/^      "tableColumn": "",$/;"	s	object:panels.5
+tags	SGW-Grafana-Dashboard.json	/^  "tags": [],$/;"	a
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.1
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.10
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.11
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.12
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.13
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.15
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.16
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.17
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.18
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.2
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.20
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.21
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.22
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.23
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.24
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.25
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.26
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.3
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.4
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.5
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.6
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.7
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.8
+targets	SGW-Grafana-Dashboard.json	/^      "targets": [$/;"	a	object:panels.9
+templating	SGW-Grafana-Dashboard.json	/^  "templating": {$/;"	o
+text	SGW-Grafana-Dashboard.json	/^            "text": "10m",$/;"	s	object:templating.list.0.options.1
+text	SGW-Grafana-Dashboard.json	/^            "text": "12h",$/;"	s	object:templating.list.0.options.5
+text	SGW-Grafana-Dashboard.json	/^            "text": "14d",$/;"	s	object:templating.list.0.options.8
+text	SGW-Grafana-Dashboard.json	/^            "text": "1d",$/;"	s	object:templating.list.0.options.6
+text	SGW-Grafana-Dashboard.json	/^            "text": "1h",$/;"	s	object:templating.list.0.options.3
+text	SGW-Grafana-Dashboard.json	/^            "text": "1m",$/;"	s	object:templating.list.0.options.0
+text	SGW-Grafana-Dashboard.json	/^            "text": "30d",$/;"	s	object:templating.list.0.options.9
+text	SGW-Grafana-Dashboard.json	/^            "text": "30m",$/;"	s	object:templating.list.0.options.2
+text	SGW-Grafana-Dashboard.json	/^            "text": "6h",$/;"	s	object:templating.list.0.options.4
+text	SGW-Grafana-Dashboard.json	/^            "text": "7d",$/;"	s	object:templating.list.0.options.7
+text	SGW-Grafana-Dashboard.json	/^          "text": "1m",$/;"	s	object:templating.list.0.current
+text	SGW-Grafana-Dashboard.json	/^          "text": "Green",$/;"	s	object:panels.1.valueMaps.0
+text	SGW-Grafana-Dashboard.json	/^          "text": "Green",$/;"	s	object:panels.1.valueMaps.1
+text	SGW-Grafana-Dashboard.json	/^          "text": "Healthy",$/;"	s	object:panels.1.rangeMaps.1
+text	SGW-Grafana-Dashboard.json	/^          "text": "Loaded",$/;"	s	object:panels.4.valueMaps.2
+text	SGW-Grafana-Dashboard.json	/^          "text": "N\/A",$/;"	s	object:panels.2.rangeMaps.0
+text	SGW-Grafana-Dashboard.json	/^          "text": "N\/A",$/;"	s	object:panels.2.valueMaps.0
+text	SGW-Grafana-Dashboard.json	/^          "text": "N\/A",$/;"	s	object:panels.3.rangeMaps.0
+text	SGW-Grafana-Dashboard.json	/^          "text": "N\/A",$/;"	s	object:panels.3.valueMaps.0
+text	SGW-Grafana-Dashboard.json	/^          "text": "N\/A",$/;"	s	object:panels.4.rangeMaps.0
+text	SGW-Grafana-Dashboard.json	/^          "text": "N\/A",$/;"	s	object:panels.4.valueMaps.0
+text	SGW-Grafana-Dashboard.json	/^          "text": "N\/A",$/;"	s	object:panels.5.rangeMaps.0
+text	SGW-Grafana-Dashboard.json	/^          "text": "Not Healthy",$/;"	s	object:panels.1.rangeMaps.0
+text	SGW-Grafana-Dashboard.json	/^          "text": "OK",$/;"	s	object:panels.4.valueMaps.1
+text	SGW-Grafana-Dashboard.json	/^          "text": "Red",$/;"	s	object:panels.1.valueMaps.3
+text	SGW-Grafana-Dashboard.json	/^          "text": "Yellow",$/;"	s	object:panels.1.valueMaps.2
+thresholdLabels	SGW-Grafana-Dashboard.json	/^        "thresholdLabels": false,$/;"	b	object:panels.1.gauge
+thresholdLabels	SGW-Grafana-Dashboard.json	/^        "thresholdLabels": false,$/;"	b	object:panels.2.gauge
+thresholdLabels	SGW-Grafana-Dashboard.json	/^        "thresholdLabels": false,$/;"	b	object:panels.3.gauge
+thresholdLabels	SGW-Grafana-Dashboard.json	/^        "thresholdLabels": false,$/;"	b	object:panels.4.gauge
+thresholdLabels	SGW-Grafana-Dashboard.json	/^        "thresholdLabels": false,$/;"	b	object:panels.5.gauge
+thresholdMarkers	SGW-Grafana-Dashboard.json	/^        "thresholdMarkers": true$/;"	b	object:panels.1.gauge
+thresholdMarkers	SGW-Grafana-Dashboard.json	/^        "thresholdMarkers": true$/;"	b	object:panels.2.gauge
+thresholdMarkers	SGW-Grafana-Dashboard.json	/^        "thresholdMarkers": true$/;"	b	object:panels.3.gauge
+thresholdMarkers	SGW-Grafana-Dashboard.json	/^        "thresholdMarkers": true$/;"	b	object:panels.4.gauge
+thresholdMarkers	SGW-Grafana-Dashboard.json	/^        "thresholdMarkers": true$/;"	b	object:panels.5.gauge
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": "",$/;"	s	object:panels.5
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": "0,1",$/;"	s	object:panels.1
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": "1,2",$/;"	s	object:panels.4
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": "70,80",$/;"	s	object:panels.3
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": "95, 99, 99.5",$/;"	s	object:panels.2
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.10
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.11
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.12
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.13
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.15
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.16
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.17
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.18
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.20
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.21
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.22
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.23
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.24
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.25
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.26
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.6
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.7
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.8
+thresholds	SGW-Grafana-Dashboard.json	/^      "thresholds": [],$/;"	a	object:panels.9
+time	SGW-Grafana-Dashboard.json	/^  "time": {$/;"	o
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.10
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.11
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.12
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.13
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.15
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.16
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.17
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.18
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.20
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.21
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.22
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.23
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.24
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.25
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.26
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.6
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.7
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.8
+timeFrom	SGW-Grafana-Dashboard.json	/^      "timeFrom": null,$/;"	z	object:panels.9
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.10
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.11
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.12
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.13
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.15
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.16
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.17
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.18
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.20
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.21
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.22
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.23
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.24
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.25
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.26
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.6
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.7
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.8
+timeRegions	SGW-Grafana-Dashboard.json	/^      "timeRegions": [],$/;"	a	object:panels.9
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.10
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.11
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.12
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.13
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.15
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.16
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.17
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.18
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.20
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.21
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.22
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.23
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.24
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.25
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.26
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.6
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.7
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.8
+timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.9
+time_options	SGW-Grafana-Dashboard.json	/^    "time_options": [$/;"	a	object:timepicker
+timepicker	SGW-Grafana-Dashboard.json	/^  "timepicker": {$/;"	o
+timezone	SGW-Grafana-Dashboard.json	/^  "timezone": "browser",$/;"	s
+title	SGW-Grafana-Dashboard.json	/^      "title": "Average Response Time ",$/;"	s	object:panels.3
+title	SGW-Grafana-Dashboard.json	/^      "title": "Backends Health Checks Failures",$/;"	s	object:panels.13
+title	SGW-Grafana-Dashboard.json	/^      "title": "Backends Health",$/;"	s	object:panels.1
+title	SGW-Grafana-Dashboard.json	/^      "title": "CPU and Memory",$/;"	s	object:panels.19
+title	SGW-Grafana-Dashboard.json	/^      "title": "CPU usage",$/;"	s	object:panels.23
+title	SGW-Grafana-Dashboard.json	/^      "title": "GC Pause Count",$/;"	s	object:panels.24
+title	SGW-Grafana-Dashboard.json	/^      "title": "GC Young\/Old Allocation Change",$/;"	s	object:panels.25
+title	SGW-Grafana-Dashboard.json	/^      "title": "Inbound Per Operation",$/;"	s	object:panels.16
+title	SGW-Grafana-Dashboard.json	/^      "title": "JVM Memory Committed",$/;"	s	object:panels.21
+title	SGW-Grafana-Dashboard.json	/^      "title": "JVM memory Used",$/;"	s	object:panels.20
+title	SGW-Grafana-Dashboard.json	/^      "title": "Load average",$/;"	s	object:panels.22
+title	SGW-Grafana-Dashboard.json	/^      "title": "Loaded Backends",$/;"	s	object:panels.4
+title	SGW-Grafana-Dashboard.json	/^      "title": "Network",$/;"	s	object:panels.14
+title	SGW-Grafana-Dashboard.json	/^      "title": "Operation Total Time",$/;"	s	object:panels.7
+title	SGW-Grafana-Dashboard.json	/^      "title": "Outbound Per Operation",$/;"	s	object:panels.15
+title	SGW-Grafana-Dashboard.json	/^      "title": "Overview",$/;"	s	object:panels.0
+title	SGW-Grafana-Dashboard.json	/^      "title": "Request Size",$/;"	s	object:panels.8
+title	SGW-Grafana-Dashboard.json	/^      "title": "Request Total ",$/;"	s	object:panels.17
+title	SGW-Grafana-Dashboard.json	/^      "title": "Request Total Per Tenant",$/;"	s	object:panels.18
+title	SGW-Grafana-Dashboard.json	/^      "title": "Request processing time",$/;"	s	object:panels.11
+title	SGW-Grafana-Dashboard.json	/^      "title": "Requests Rate ",$/;"	s	object:panels.6
+title	SGW-Grafana-Dashboard.json	/^      "title": "Response Code Total",$/;"	s	object:panels.9
+title	SGW-Grafana-Dashboard.json	/^      "title": "Response processing time",$/;"	s	object:panels.10
+title	SGW-Grafana-Dashboard.json	/^      "title": "Success Rate ",$/;"	s	object:panels.2
+title	SGW-Grafana-Dashboard.json	/^      "title": "Thread State",$/;"	s	object:panels.26
+title	SGW-Grafana-Dashboard.json	/^      "title": "Total Request Time \/ SGW Latency",$/;"	s	object:panels.12
+title	SGW-Grafana-Dashboard.json	/^      "title": "Total Request per Min",$/;"	s	object:panels.5
+title	SGW-Grafana-Dashboard.json	/^  "title": "SGW",$/;"	s
+to	SGW-Grafana-Dashboard.json	/^          "to": "0"$/;"	s	object:panels.1.rangeMaps.0
+to	SGW-Grafana-Dashboard.json	/^          "to": "1"$/;"	s	object:panels.1.rangeMaps.1
+to	SGW-Grafana-Dashboard.json	/^          "to": "null"$/;"	s	object:panels.2.rangeMaps.0
+to	SGW-Grafana-Dashboard.json	/^          "to": "null"$/;"	s	object:panels.3.rangeMaps.0
+to	SGW-Grafana-Dashboard.json	/^          "to": "null"$/;"	s	object:panels.4.rangeMaps.0
+to	SGW-Grafana-Dashboard.json	/^          "to": "null"$/;"	s	object:panels.5.rangeMaps.0
+to	SGW-Grafana-Dashboard.json	/^    "to": "now"$/;"	s	object:time
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.10
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.11
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.12
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.13
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.15
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.16
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.17
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.18
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.20
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.21
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.22
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.23
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.24
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.25
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.26
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.6
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.7
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.8
+tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.9
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.10.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.11.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.12.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.13.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.15.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.16.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.17.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.18.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.20.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.21.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.22.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.23.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.24.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.25.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.26.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.6.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.7.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.8.legend
+total	SGW-Grafana-Dashboard.json	/^        "total": false,$/;"	b	object:panels.9.legend
+type	SGW-Grafana-Dashboard.json	/^        "type": "dashboard"$/;"	s	object:annotations.list.0
+type	SGW-Grafana-Dashboard.json	/^        "type": "interval"$/;"	s	object:templating.list.0
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.10
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.11
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.12
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.13
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.15
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.16
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.17
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.18
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.20
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.21
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.22
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.23
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.24
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.25
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.26
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.6
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.7
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.8
+type	SGW-Grafana-Dashboard.json	/^      "type": "graph",$/;"	s	object:panels.9
+type	SGW-Grafana-Dashboard.json	/^      "type": "row"$/;"	s	object:panels.0
+type	SGW-Grafana-Dashboard.json	/^      "type": "row"$/;"	s	object:panels.14
+type	SGW-Grafana-Dashboard.json	/^      "type": "row"$/;"	s	object:panels.19
+type	SGW-Grafana-Dashboard.json	/^      "type": "singlestat",$/;"	s	object:panels.1
+type	SGW-Grafana-Dashboard.json	/^      "type": "singlestat",$/;"	s	object:panels.2
+type	SGW-Grafana-Dashboard.json	/^      "type": "singlestat",$/;"	s	object:panels.3
+type	SGW-Grafana-Dashboard.json	/^      "type": "singlestat",$/;"	s	object:panels.4
+type	SGW-Grafana-Dashboard.json	/^      "type": "singlestat",$/;"	s	object:panels.5
+uid	SGW-Grafana-Dashboard.json	/^  "uid": "vN2n2btGk",$/;"	s
+value	SGW-Grafana-Dashboard.json	/^            "value": "10m"$/;"	s	object:templating.list.0.options.1
+value	SGW-Grafana-Dashboard.json	/^            "value": "12h"$/;"	s	object:templating.list.0.options.5
+value	SGW-Grafana-Dashboard.json	/^            "value": "14d"$/;"	s	object:templating.list.0.options.8
+value	SGW-Grafana-Dashboard.json	/^            "value": "1d"$/;"	s	object:templating.list.0.options.6
+value	SGW-Grafana-Dashboard.json	/^            "value": "1h"$/;"	s	object:templating.list.0.options.3
+value	SGW-Grafana-Dashboard.json	/^            "value": "1m"$/;"	s	object:templating.list.0.options.0
+value	SGW-Grafana-Dashboard.json	/^            "value": "30d"$/;"	s	object:templating.list.0.options.9
+value	SGW-Grafana-Dashboard.json	/^            "value": "30m"$/;"	s	object:templating.list.0.options.2
+value	SGW-Grafana-Dashboard.json	/^            "value": "6h"$/;"	s	object:templating.list.0.options.4
+value	SGW-Grafana-Dashboard.json	/^            "value": "7d"$/;"	s	object:templating.list.0.options.7
+value	SGW-Grafana-Dashboard.json	/^          "value": "0"$/;"	s	object:panels.1.valueMaps.3
+value	SGW-Grafana-Dashboard.json	/^          "value": "0"$/;"	s	object:panels.4.valueMaps.1
+value	SGW-Grafana-Dashboard.json	/^          "value": "1"$/;"	s	object:panels.1.valueMaps.2
+value	SGW-Grafana-Dashboard.json	/^          "value": "1"$/;"	s	object:panels.4.valueMaps.2
+value	SGW-Grafana-Dashboard.json	/^          "value": "1m"$/;"	s	object:templating.list.0.current
+value	SGW-Grafana-Dashboard.json	/^          "value": "5"$/;"	s	object:panels.1.valueMaps.1
+value	SGW-Grafana-Dashboard.json	/^          "value": "null"$/;"	s	object:panels.1.valueMaps.0
+value	SGW-Grafana-Dashboard.json	/^          "value": "null"$/;"	s	object:panels.2.valueMaps.0
+value	SGW-Grafana-Dashboard.json	/^          "value": "null"$/;"	s	object:panels.3.valueMaps.0
+value	SGW-Grafana-Dashboard.json	/^          "value": "null"$/;"	s	object:panels.4.valueMaps.0
+value	SGW-Grafana-Dashboard.json	/^          "value": 1$/;"	n	object:panels.1.mappingTypes.0
+value	SGW-Grafana-Dashboard.json	/^          "value": 1$/;"	n	object:panels.2.mappingTypes.0
+value	SGW-Grafana-Dashboard.json	/^          "value": 1$/;"	n	object:panels.3.mappingTypes.0
+value	SGW-Grafana-Dashboard.json	/^          "value": 1$/;"	n	object:panels.4.mappingTypes.0
+value	SGW-Grafana-Dashboard.json	/^          "value": 1$/;"	n	object:panels.5.mappingTypes.0
+value	SGW-Grafana-Dashboard.json	/^          "value": 2$/;"	n	object:panels.1.mappingTypes.1
+value	SGW-Grafana-Dashboard.json	/^          "value": 2$/;"	n	object:panels.2.mappingTypes.1
+value	SGW-Grafana-Dashboard.json	/^          "value": 2$/;"	n	object:panels.3.mappingTypes.1
+value	SGW-Grafana-Dashboard.json	/^          "value": 2$/;"	n	object:panels.4.mappingTypes.1
+value	SGW-Grafana-Dashboard.json	/^          "value": 2$/;"	n	object:panels.5.mappingTypes.1
+valueFontSize	SGW-Grafana-Dashboard.json	/^      "valueFontSize": "80%",$/;"	s	object:panels.1
+valueFontSize	SGW-Grafana-Dashboard.json	/^      "valueFontSize": "80%",$/;"	s	object:panels.2
+valueFontSize	SGW-Grafana-Dashboard.json	/^      "valueFontSize": "80%",$/;"	s	object:panels.3
+valueFontSize	SGW-Grafana-Dashboard.json	/^      "valueFontSize": "80%",$/;"	s	object:panels.4
+valueFontSize	SGW-Grafana-Dashboard.json	/^      "valueFontSize": "80%",$/;"	s	object:panels.5
+valueMaps	SGW-Grafana-Dashboard.json	/^      "valueMaps": [$/;"	a	object:panels.1
+valueMaps	SGW-Grafana-Dashboard.json	/^      "valueMaps": [$/;"	a	object:panels.2
+valueMaps	SGW-Grafana-Dashboard.json	/^      "valueMaps": [$/;"	a	object:panels.3
+valueMaps	SGW-Grafana-Dashboard.json	/^      "valueMaps": [$/;"	a	object:panels.4
+valueMaps	SGW-Grafana-Dashboard.json	/^      "valueMaps": [],$/;"	a	object:panels.5
+valueName	SGW-Grafana-Dashboard.json	/^      "valueName": "avg"$/;"	s	object:panels.2
+valueName	SGW-Grafana-Dashboard.json	/^      "valueName": "avg"$/;"	s	object:panels.3
+valueName	SGW-Grafana-Dashboard.json	/^      "valueName": "current"$/;"	s	object:panels.1
+valueName	SGW-Grafana-Dashboard.json	/^      "valueName": "current"$/;"	s	object:panels.4
+valueName	SGW-Grafana-Dashboard.json	/^      "valueName": "current"$/;"	s	object:panels.5
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.10.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.11.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.12.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.20.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.21.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.22.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.23.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.24.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.25.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.26.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.7.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "cumulative"$/;"	s	object:panels.8.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "individual"$/;"	s	object:panels.13.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "individual"$/;"	s	object:panels.15.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "individual"$/;"	s	object:panels.16.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "individual"$/;"	s	object:panels.17.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "individual"$/;"	s	object:panels.18.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "individual"$/;"	s	object:panels.6.tooltip
+value_type	SGW-Grafana-Dashboard.json	/^        "value_type": "individual"$/;"	s	object:panels.9.tooltip
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.10.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.11.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.12.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.13.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.15.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.16.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.17.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.18.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.20.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.21.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.22.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.23.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.24.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.25.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.26.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.6.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.7.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.8.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": []$/;"	a	object:panels.9.xaxis
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.13.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.15.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.16.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.17.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.18.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.20.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.21.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.23.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.24.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.25.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.26.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.6.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": false$/;"	b	object:panels.9.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": true$/;"	b	object:panels.10.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": true$/;"	b	object:panels.11.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": true$/;"	b	object:panels.12.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": true$/;"	b	object:panels.22.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": true$/;"	b	object:panels.7.legend
+values	SGW-Grafana-Dashboard.json	/^        "values": true$/;"	b	object:panels.8.legend
+version	SGW-Grafana-Dashboard.json	/^  "version": 31$/;"	n
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.10.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.11.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.12.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.13.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.15.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.16.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.17.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.18.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.20.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.21.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.22.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.23.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.24.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.25.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.26.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.6.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.7.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.8.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 12,$/;"	n	object:panels.9.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 24,$/;"	n	object:panels.0.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 24,$/;"	n	object:panels.14.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 24,$/;"	n	object:panels.19.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 4,$/;"	n	object:panels.1.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 4,$/;"	n	object:panels.4.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 5,$/;"	n	object:panels.2.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 5,$/;"	n	object:panels.3.gridPos
+w	SGW-Grafana-Dashboard.json	/^        "w": 6,$/;"	n	object:panels.5.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.0.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.1.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.10.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.12.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.14.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.15.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.17.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.19.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.20.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.22.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.24.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.26.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.6.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 0,$/;"	n	object:panels.8.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 12,$/;"	n	object:panels.11.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 12,$/;"	n	object:panels.13.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 12,$/;"	n	object:panels.16.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 12,$/;"	n	object:panels.18.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 12,$/;"	n	object:panels.21.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 12,$/;"	n	object:panels.23.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 12,$/;"	n	object:panels.25.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 12,$/;"	n	object:panels.7.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 12,$/;"	n	object:panels.9.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 14,$/;"	n	object:panels.4.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 18,$/;"	n	object:panels.5.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 4,$/;"	n	object:panels.2.gridPos
+x	SGW-Grafana-Dashboard.json	/^        "x": 9,$/;"	n	object:panels.3.gridPos
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.10
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.11
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.12
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.13
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.15
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.16
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.17
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.18
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.20
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.21
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.22
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.23
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.24
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.25
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.26
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.6
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.7
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.8
+xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.9
+y	SGW-Grafana-Dashboard.json	/^        "y": 0$/;"	n	object:panels.0.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 1$/;"	n	object:panels.1.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 1$/;"	n	object:panels.2.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 1$/;"	n	object:panels.3.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 1$/;"	n	object:panels.4.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 1$/;"	n	object:panels.5.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 101$/;"	n	object:panels.24.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 101$/;"	n	object:panels.25.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 112$/;"	n	object:panels.26.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 17$/;"	n	object:panels.8.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 17$/;"	n	object:panels.9.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 30$/;"	n	object:panels.10.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 30$/;"	n	object:panels.11.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 4$/;"	n	object:panels.6.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 4$/;"	n	object:panels.7.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 43$/;"	n	object:panels.12.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 43$/;"	n	object:panels.13.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 56$/;"	n	object:panels.14.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 57$/;"	n	object:panels.15.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 57$/;"	n	object:panels.16.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 68$/;"	n	object:panels.17.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 68$/;"	n	object:panels.18.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 78$/;"	n	object:panels.19.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 79$/;"	n	object:panels.20.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 79$/;"	n	object:panels.21.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 90$/;"	n	object:panels.22.gridPos
+y	SGW-Grafana-Dashboard.json	/^        "y": 90$/;"	n	object:panels.23.gridPos
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.10
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.11
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.12
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.13
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.15
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.16
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.17
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.18
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.20
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.21
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.22
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.23
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.24
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.25
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.26
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.6
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.7
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.8
+yaxes	SGW-Grafana-Dashboard.json	/^      "yaxes": [$/;"	a	object:panels.9
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.10
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.11
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.12
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.13
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.15
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.16
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.17
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.18
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.20
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.21
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.22
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.23
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.24
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.25
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.26
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.6
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.7
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.8
+yaxis	SGW-Grafana-Dashboard.json	/^      "yaxis": {$/;"	o	object:panels.9
