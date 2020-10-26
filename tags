@@ -74,6 +74,8 @@
 0	SGW-Grafana-Dashboard.json	/^      {$/;"	o	array:annotations.list
 0	SGW-Grafana-Dashboard.json	/^      {$/;"	o	array:templating.list
 0	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
+0	opster-sg-template.json	/^        {$/;"	o	array:opster-sg.mappings.dynamic_templates
+0	opster-sg-template.json	/^      "opster-sg*"$/;"	s	array:opster-sg.index_patterns
 1	SGW-Grafana-Dashboard.json	/^          {$/;"	o	array:templating.list.0.options
 1	SGW-Grafana-Dashboard.json	/^        "rgba(237, 129, 40, 0.89)",$/;"	s	array:panels.1.colors
 1	SGW-Grafana-Dashboard.json	/^        "rgba(237, 129, 40, 0.89)",$/;"	s	array:panels.2.colors
@@ -177,8 +179,10 @@
 9	SGW-Grafana-Dashboard.json	/^      "2h",$/;"	s	array:timepicker.refresh_intervals
 9	SGW-Grafana-Dashboard.json	/^    {$/;"	o	array:panels
 Configuration files can be download the following way:	README.md	/^### Configuration files can be download the following way:$/;"	S
+Content-Length	opster-sg-template.json	/^            "Content-Length": {$/;"	o	object:opster-sg.mappings.properties.headers.properties
 How to run	README.md	/^### How to run$/;"	S
 Monitoring files can be download the following way:	README.md	/^### Monitoring files can be download the following way:$/;"	S
+Upgrade-Insecure-Requests	opster-sg-template.json	/^            "Upgrade-Insecure-Requests": {$/;"	o	object:opster-sg.mappings.properties.headers.properties
 aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.10
 aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.11
 aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.12
@@ -198,6 +202,7 @@ aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:p
 aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.7
 aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.8
 aliasColors	SGW-Grafana-Dashboard.json	/^      "aliasColors": {},$/;"	o	object:panels.9
+aliases	opster-sg-template.json	/^    "aliases": {}$/;"	o	object:opster-sg
 align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.10.yaxis
 align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.11.yaxis
 align	SGW-Grafana-Dashboard.json	/^        "align": false,$/;"	b	object:panels.12.yaxis
@@ -315,6 +320,9 @@ cacheTimeout	SGW-Grafana-Dashboard.json	/^      "cacheTimeout": null,$/;"	z	obje
 cacheTimeout	SGW-Grafana-Dashboard.json	/^      "cacheTimeout": null,$/;"	z	object:panels.3
 cacheTimeout	SGW-Grafana-Dashboard.json	/^      "cacheTimeout": null,$/;"	z	object:panels.4
 cacheTimeout	SGW-Grafana-Dashboard.json	/^      "cacheTimeout": null,$/;"	z	object:panels.5
+cached_avg_run_time	opster-sg-template.json	/^        "cached_avg_run_time": {$/;"	o	object:opster-sg.mappings.properties
+cached_max_run_time	opster-sg-template.json	/^        "cached_max_run_time": {$/;"	o	object:opster-sg.mappings.properties
+cached_run_count	opster-sg-template.json	/^        "cached_run_count": {$/;"	o	object:opster-sg.mappings.properties
 collapsed	SGW-Grafana-Dashboard.json	/^      "collapsed": false,$/;"	b	object:panels.0
 collapsed	SGW-Grafana-Dashboard.json	/^      "collapsed": false,$/;"	b	object:panels.14
 collapsed	SGW-Grafana-Dashboard.json	/^      "collapsed": false,$/;"	b	object:panels.19
@@ -442,6 +450,9 @@ datasource	SGW-Grafana-Dashboard.json	/^      "datasource": null,$/;"	z	object:p
 description	SGW-Grafana-Dashboard.json	/^      "description": "0\/1 - 0 State Healthy , 1 state Not Healthy",$/;"	s	object:panels.13
 description	SGW-Grafana-Dashboard.json	/^      "description": "Number of data nodes in the cluster",$/;"	s	object:panels.4
 description	SGW-Grafana-Dashboard.json	/^  "description": "Stats",$/;"	s
+dest_backend_id	opster-sg-template.json	/^        "dest_backend_id": {$/;"	o	object:opster-sg.mappings.properties
+dynamic	opster-sg-template.json	/^          "dynamic": "true",$/;"	s	object:opster-sg.mappings.properties.exception
+dynamic_templates	opster-sg-template.json	/^      "dynamic_templates": [$/;"	a	object:opster-sg.mappings
 editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.10
 editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.11
 editable	SGW-Grafana-Dashboard.json	/^      "editable": true,$/;"	b	object:panels.12
@@ -476,6 +487,7 @@ error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.4
 error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.5
 error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.7
 error	SGW-Grafana-Dashboard.json	/^      "error": false,$/;"	b	object:panels.8
+exception	opster-sg-template.json	/^        "exception": {$/;"	o	object:opster-sg.mappings.properties
 expr	SGW-Grafana-Dashboard.json	/^          "expr": "(rate(com_opster_mclb_new_total_reactor_netty_http_client_data_received_time_/;"	s	object:panels.10.targets.3
 expr	SGW-Grafana-Dashboard.json	/^          "expr": "(rate(com_opster_mclb_new_total_reactor_netty_http_server_data_received_time_/;"	s	object:panels.11.targets.3
 expr	SGW-Grafana-Dashboard.json	/^          "expr": "com_opster_mclb_cluster_health_backends",$/;"	s	object:panels.1.targets.0
@@ -509,6 +521,7 @@ expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_jv
 expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_new_operation_reactor_netty_http_client_data_receive/;"	s	object:panels.15.targets.0
 expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_new_operation_reactor_netty_http_server_data_sent_by/;"	s	object:panels.16.targets.0
 expr	SGW-Grafana-Dashboard.json	/^          "expr": "sum(rate(com_opster_mclb_new_total_reactor_netty_http_client_status_total{sta/;"	s	object:panels.2.targets.0
+failed_backends	opster-sg-template.json	/^        "failed_backends": {$/;"	o	object:opster-sg.mappings.properties
 fill	SGW-Grafana-Dashboard.json	/^      "fill": 0,$/;"	n	object:panels.21
 fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.10
 fill	SGW-Grafana-Dashboard.json	/^      "fill": 1,$/;"	n	object:panels.11
@@ -700,6 +713,7 @@ h	SGW-Grafana-Dashboard.json	/^        "h": 3,$/;"	n	object:panels.2.gridPos
 h	SGW-Grafana-Dashboard.json	/^        "h": 3,$/;"	n	object:panels.3.gridPos
 h	SGW-Grafana-Dashboard.json	/^        "h": 3,$/;"	n	object:panels.4.gridPos
 h	SGW-Grafana-Dashboard.json	/^        "h": 3,$/;"	n	object:panels.5.gridPos
+headers	opster-sg-template.json	/^        "headers": {$/;"	o	object:opster-sg.mappings.properties
 height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.10
 height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.11
 height	SGW-Grafana-Dashboard.json	/^      "height": "400",$/;"	s	object:panels.12
@@ -805,6 +819,9 @@ id	SGW-Grafana-Dashboard.json	/^      "id": 89,$/;"	n	object:panels.5
 id	SGW-Grafana-Dashboard.json	/^      "id": 9,$/;"	n	object:panels.4
 id	SGW-Grafana-Dashboard.json	/^      "id": 90,$/;"	n	object:panels.0
 id	SGW-Grafana-Dashboard.json	/^      "id": 95,$/;"	n	object:panels.19
+ignore_above	opster-sg-template.json	/^              "ignore_above": 256,$/;"	n	object:opster-sg.mappings.dynamic_templates.0.strings_as_keywords.mapping
+index	opster-sg-template.json	/^      "index": {$/;"	o	object:opster-sg.settings
+index_patterns	opster-sg-template.json	/^    "index_patterns": [$/;"	a	object:opster-sg
 instant	SGW-Grafana-Dashboard.json	/^          "instant": false,$/;"	b	object:panels.22.targets.0
 instant	SGW-Grafana-Dashboard.json	/^          "instant": false,$/;"	b	object:panels.23.targets.0
 instant	SGW-Grafana-Dashboard.json	/^          "instant": true,$/;"	b	object:panels.1.targets.0
@@ -951,6 +968,7 @@ lineColor	SGW-Grafana-Dashboard.json	/^        "lineColor": "rgb(31, 120, 193)",
 lineColor	SGW-Grafana-Dashboard.json	/^        "lineColor": "rgb(31, 120, 193)",$/;"	s	object:panels.3.sparkline
 lineColor	SGW-Grafana-Dashboard.json	/^        "lineColor": "rgb(31, 120, 193)",$/;"	s	object:panels.4.sparkline
 lineColor	SGW-Grafana-Dashboard.json	/^        "lineColor": "rgb(31, 120, 193)",$/;"	s	object:panels.5.sparkline
+line_number	opster-sg-template.json	/^                "line_number": {$/;"	o	object:opster-sg.mappings.properties.exception.properties.stack_trace.properties
 lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.10
 lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.11
 lines	SGW-Grafana-Dashboard.json	/^      "lines": true,$/;"	b	object:panels.12
@@ -1047,6 +1065,7 @@ logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels
 logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.8.yaxes.1
 logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.9.yaxes.0
 logBase	SGW-Grafana-Dashboard.json	/^          "logBase": 1,$/;"	n	object:panels.9.yaxes.1
+mapping	opster-sg-template.json	/^            "mapping": {$/;"	o	object:opster-sg.mappings.dynamic_templates.0.strings_as_keywords
 mappingType	SGW-Grafana-Dashboard.json	/^      "mappingType": 1,$/;"	n	object:panels.2
 mappingType	SGW-Grafana-Dashboard.json	/^      "mappingType": 1,$/;"	n	object:panels.3
 mappingType	SGW-Grafana-Dashboard.json	/^      "mappingType": 1,$/;"	n	object:panels.4
@@ -1057,6 +1076,8 @@ mappingTypes	SGW-Grafana-Dashboard.json	/^      "mappingTypes": [$/;"	a	object:p
 mappingTypes	SGW-Grafana-Dashboard.json	/^      "mappingTypes": [$/;"	a	object:panels.3
 mappingTypes	SGW-Grafana-Dashboard.json	/^      "mappingTypes": [$/;"	a	object:panels.4
 mappingTypes	SGW-Grafana-Dashboard.json	/^      "mappingTypes": [$/;"	a	object:panels.5
+mappings	opster-sg-template.json	/^    "mappings": {$/;"	o	object:opster-sg
+match_mapping_type	opster-sg-template.json	/^            "match_mapping_type": "string"$/;"	s	object:opster-sg.mappings.dynamic_templates.0.strings_as_keywords
 max	SGW-Grafana-Dashboard.json	/^          "max": 100,$/;"	n	object:panels.23.yaxes.0
 max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.10.yaxes.0
 max	SGW-Grafana-Dashboard.json	/^          "max": null,$/;"	z	object:panels.10.yaxes.1
@@ -1266,6 +1287,7 @@ name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.6.xa
 name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.7.xaxis
 name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.8.xaxis
 name	SGW-Grafana-Dashboard.json	/^        "name": null,$/;"	z	object:panels.9.xaxis
+native_method	opster-sg-template.json	/^                "native_method": {$/;"	o	object:opster-sg.mappings.properties.exception.properties.stack_trace.properties
 nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.1
 nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.10
 nullPointMode	SGW-Grafana-Dashboard.json	/^      "nullPointMode": "connected",$/;"	s	object:panels.11
@@ -1295,6 +1317,8 @@ nullText	SGW-Grafana-Dashboard.json	/^      "nullText": null,$/;"	z	object:panel
 nullText	SGW-Grafana-Dashboard.json	/^      "nullText": null,$/;"	z	object:panels.3
 nullText	SGW-Grafana-Dashboard.json	/^      "nullText": null,$/;"	z	object:panels.4
 nullText	SGW-Grafana-Dashboard.json	/^      "nullText": null,$/;"	z	object:panels.5
+number_of_replicas	opster-sg-template.json	/^        "number_of_replicas": "1"$/;"	s	object:opster-sg.settings.index
+number_of_shards	opster-sg-template.json	/^        "number_of_shards": "1",$/;"	s	object:opster-sg.settings.index
 op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.1.valueMaps.0
 op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.1.valueMaps.1
 op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.1.valueMaps.2
@@ -1304,6 +1328,7 @@ op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.3.value
 op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.4.valueMaps.0
 op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.4.valueMaps.1
 op	SGW-Grafana-Dashboard.json	/^          "op": "=",$/;"	s	object:panels.4.valueMaps.2
+opster-sg	opster-sg-template.json	/^  "opster-sg": {$/;"	o
 options	SGW-Grafana-Dashboard.json	/^        "options": [$/;"	a	object:templating.list.0
 options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.10
 options	SGW-Grafana-Dashboard.json	/^      "options": {$/;"	o	object:panels.11
@@ -1329,10 +1354,12 @@ options	SGW-Grafana-Dashboard.json	/^      "options": {},$/;"	o	object:panels.2
 options	SGW-Grafana-Dashboard.json	/^      "options": {},$/;"	o	object:panels.3
 options	SGW-Grafana-Dashboard.json	/^      "options": {},$/;"	o	object:panels.4
 options	SGW-Grafana-Dashboard.json	/^      "options": {},$/;"	o	object:panels.5
+order	opster-sg-template.json	/^    "order": 0,$/;"	n	object:opster-sg
 panels	SGW-Grafana-Dashboard.json	/^      "panels": [],$/;"	a	object:panels.0
 panels	SGW-Grafana-Dashboard.json	/^      "panels": [],$/;"	a	object:panels.14
 panels	SGW-Grafana-Dashboard.json	/^      "panels": [],$/;"	a	object:panels.19
 panels	SGW-Grafana-Dashboard.json	/^  "panels": [$/;"	a
+pattern_cache_count	opster-sg-template.json	/^        "pattern_cache_count": {$/;"	o	object:opster-sg.mappings.properties
 percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.10
 percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.11
 percentage	SGW-Grafana-Dashboard.json	/^      "percentage": false,$/;"	b	object:panels.12
@@ -1410,7 +1437,39 @@ prefixFontSize	SGW-Grafana-Dashboard.json	/^      "prefixFontSize": "50%",$/;"	s
 prefixFontSize	SGW-Grafana-Dashboard.json	/^      "prefixFontSize": "50%",$/;"	s	object:panels.3
 prefixFontSize	SGW-Grafana-Dashboard.json	/^      "prefixFontSize": "50%",$/;"	s	object:panels.4
 prefixFontSize	SGW-Grafana-Dashboard.json	/^      "prefixFontSize": "50%",$/;"	s	object:panels.5
+properties	opster-sg-template.json	/^              "properties": {$/;"	o	object:opster-sg.mappings.properties.exception.properties.stack_trace
+properties	opster-sg-template.json	/^          "properties": {$/;"	o	object:opster-sg.mappings.properties.exception
+properties	opster-sg-template.json	/^          "properties": {$/;"	o	object:opster-sg.mappings.properties.headers
+properties	opster-sg-template.json	/^      "properties": {$/;"	o	object:opster-sg.mappings
 query	SGW-Grafana-Dashboard.json	/^        "query": "1m,10m,30m,1h,6h,12h,1d,7d,14d,30d",$/;"	s	object:templating.list.0
+query_info_aggregations_max_buckets	opster-sg-template.json	/^        "query_info_aggregations_max_buckets": {$/;"	o	object:opster-sg.mappings.properties
+query_info_cluster_healthy	opster-sg-template.json	/^        "query_info_cluster_healthy": {$/;"	o	object:opster-sg.mappings.properties
+query_info_cost_aggregation	opster-sg-template.json	/^        "query_info_cost_aggregation": {$/;"	o	object:opster-sg.mappings.properties
+query_info_cost_data	opster-sg-template.json	/^        "query_info_cost_data": {$/;"	o	object:opster-sg.mappings.properties
+query_info_cost_range	opster-sg-template.json	/^        "query_info_cost_range": {$/;"	o	object:opster-sg.mappings.properties
+query_info_cost_regex	opster-sg-template.json	/^        "query_info_cost_regex": {$/;"	o	object:opster-sg.mappings.properties
+query_info_cost_script	opster-sg-template.json	/^        "query_info_cost_script": {$/;"	o	object:opster-sg.mappings.properties
+query_info_cost_total	opster-sg-template.json	/^        "query_info_cost_total": {$/;"	o	object:opster-sg.mappings.properties
+query_info_docs_count	opster-sg-template.json	/^        "query_info_docs_count": {$/;"	o	object:opster-sg.mappings.properties
+query_info_node_stat_search_active	opster-sg-template.json	/^        "query_info_node_stat_search_active": {$/;"	o	object:opster-sg.mappings.properties
+query_info_node_stat_search_completed	opster-sg-template.json	/^        "query_info_node_stat_search_completed": {$/;"	o	object:opster-sg.mappings.properties
+query_info_node_stat_search_largest	opster-sg-template.json	/^        "query_info_node_stat_search_largest": {$/;"	o	object:opster-sg.mappings.properties
+query_info_node_stat_search_queue	opster-sg-template.json	/^        "query_info_node_stat_search_queue": {$/;"	o	object:opster-sg.mappings.properties
+query_info_node_stat_search_rejected	opster-sg-template.json	/^        "query_info_node_stat_search_rejected": {$/;"	o	object:opster-sg.mappings.properties
+query_info_node_stat_search_threads	opster-sg-template.json	/^        "query_info_node_stat_search_threads": {$/;"	o	object:opster-sg.mappings.properties
+query_info_range_terms_duration	opster-sg-template.json	/^        "query_info_range_terms_duration": {$/;"	o	object:opster-sg.mappings.properties
+query_info_range_terms_from	opster-sg-template.json	/^        "query_info_range_terms_from": {$/;"	o	object:opster-sg.mappings.properties
+query_info_range_terms_to	opster-sg-template.json	/^        "query_info_range_terms_to": {$/;"	o	object:opster-sg.mappings.properties
+query_info_search_node_stat_active	opster-sg-template.json	/^        "query_info_search_node_stat_active": {$/;"	o	object:opster-sg.mappings.properties
+query_info_search_node_stat_completed	opster-sg-template.json	/^        "query_info_search_node_stat_completed": {$/;"	o	object:opster-sg.mappings.properties
+query_info_search_node_stat_largest	opster-sg-template.json	/^        "query_info_search_node_stat_largest": {$/;"	o	object:opster-sg.mappings.properties
+query_info_search_node_stat_queue	opster-sg-template.json	/^        "query_info_search_node_stat_queue": {$/;"	o	object:opster-sg.mappings.properties
+query_info_search_node_stat_rejected	opster-sg-template.json	/^        "query_info_search_node_stat_rejected": {$/;"	o	object:opster-sg.mappings.properties
+query_info_search_node_stat_threads	opster-sg-template.json	/^        "query_info_search_node_stat_threads": {$/;"	o	object:opster-sg.mappings.properties
+query_info_search_pattern_id	opster-sg-template.json	/^        "query_info_search_pattern_id": {$/;"	o	object:opster-sg.mappings.properties
+query_info_shard_size	opster-sg-template.json	/^        "query_info_shard_size": {$/;"	o	object:opster-sg.mappings.properties
+query_info_shards_count	opster-sg-template.json	/^        "query_info_shards_count": {$/;"	o	object:opster-sg.mappings.properties
+query_info_size	opster-sg-template.json	/^        "query_info_size": {$/;"	o	object:opster-sg.mappings.properties
 rangeMaps	SGW-Grafana-Dashboard.json	/^      "rangeMaps": [$/;"	a	object:panels.1
 rangeMaps	SGW-Grafana-Dashboard.json	/^      "rangeMaps": [$/;"	a	object:panels.2
 rangeMaps	SGW-Grafana-Dashboard.json	/^      "rangeMaps": [$/;"	a	object:panels.3
@@ -1473,6 +1532,8 @@ renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:pan
 renderer	SGW-Grafana-Dashboard.json	/^      "renderer": "flot",$/;"	s	object:panels.9
 repeat	SGW-Grafana-Dashboard.json	/^      "repeat": null,$/;"	z	object:panels.0
 repeat	SGW-Grafana-Dashboard.json	/^      "repeat": null,$/;"	z	object:panels.19
+request_processing_time_nanos	opster-sg-template.json	/^        "request_processing_time_nanos": {$/;"	o	object:opster-sg.mappings.properties
+response_processing_time_nanos	opster-sg-template.json	/^        "response_processing_time_nanos": {$/;"	o	object:opster-sg.mappings.properties
 rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.10.legend
 rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.11.legend
 rightSide	SGW-Grafana-Dashboard.json	/^        "rightSide": false,$/;"	b	object:panels.12.legend
@@ -1516,6 +1577,7 @@ seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	
 seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.7
 seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.8
 seriesOverrides	SGW-Grafana-Dashboard.json	/^      "seriesOverrides": [],$/;"	a	object:panels.9
+settings	opster-sg-template.json	/^    "settings": {$/;"	o	object:opster-sg
 sgw	README.md	/^# sgw$/;"	c
 shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.10.tooltip
 shared	SGW-Grafana-Dashboard.json	/^        "shared": true,$/;"	b	object:panels.11.tooltip
@@ -1701,6 +1763,8 @@ stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.7
 stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.8
 stack	SGW-Grafana-Dashboard.json	/^      "stack": false,$/;"	b	object:panels.9
 stack	SGW-Grafana-Dashboard.json	/^      "stack": true,$/;"	b	object:panels.6
+stack_trace	opster-sg-template.json	/^            "stack_trace": {$/;"	o	object:opster-sg.mappings.properties.exception.properties
+status_code	opster-sg-template.json	/^        "status_code": {$/;"	o	object:opster-sg.mappings.properties
 step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.10.targets.0
 step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.10.targets.1
 step	SGW-Grafana-Dashboard.json	/^          "step": 10$/;"	n	object:panels.10.targets.2
@@ -1739,7 +1803,9 @@ steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	objec
 steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.7
 steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.8
 steppedLine	SGW-Grafana-Dashboard.json	/^      "steppedLine": false,$/;"	b	object:panels.9
+strings_as_keywords	opster-sg-template.json	/^          "strings_as_keywords": {$/;"	o	object:opster-sg.mappings.dynamic_templates.0
 style	SGW-Grafana-Dashboard.json	/^  "style": "dark",$/;"	s
+successful_backends	opster-sg-template.json	/^        "successful_backends": {$/;"	o	object:opster-sg.mappings.properties
 tableColumn	SGW-Grafana-Dashboard.json	/^      "tableColumn": "",$/;"	s	object:panels.1
 tableColumn	SGW-Grafana-Dashboard.json	/^      "tableColumn": "",$/;"	s	object:panels.2
 tableColumn	SGW-Grafana-Dashboard.json	/^      "tableColumn": "",$/;"	s	object:panels.3
@@ -1891,6 +1957,7 @@ timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:pan
 timeShift	SGW-Grafana-Dashboard.json	/^      "timeShift": null,$/;"	z	object:panels.9
 time_options	SGW-Grafana-Dashboard.json	/^    "time_options": [$/;"	a	object:timepicker
 timepicker	SGW-Grafana-Dashboard.json	/^  "timepicker": {$/;"	o
+timestamp	opster-sg-template.json	/^        "timestamp": {$/;"	o	object:opster-sg.mappings.properties
 timezone	SGW-Grafana-Dashboard.json	/^  "timezone": "browser",$/;"	s
 title	SGW-Grafana-Dashboard.json	/^      "title": "Average Response Time ",$/;"	s	object:panels.3
 title	SGW-Grafana-Dashboard.json	/^      "title": "Backends Health Checks Failures",$/;"	s	object:panels.13
@@ -1927,6 +1994,7 @@ to	SGW-Grafana-Dashboard.json	/^          "to": "null"$/;"	s	object:panels.3.ran
 to	SGW-Grafana-Dashboard.json	/^          "to": "null"$/;"	s	object:panels.4.rangeMaps.0
 to	SGW-Grafana-Dashboard.json	/^          "to": "null"$/;"	s	object:panels.5.rangeMaps.0
 to	SGW-Grafana-Dashboard.json	/^    "to": "now"$/;"	s	object:time
+took	opster-sg-template.json	/^        "took": {$/;"	o	object:opster-sg.mappings.properties
 tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.10
 tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.11
 tooltip	SGW-Grafana-Dashboard.json	/^      "tooltip": {$/;"	o	object:panels.12
@@ -1994,6 +2062,52 @@ type	SGW-Grafana-Dashboard.json	/^      "type": "singlestat",$/;"	s	object:panel
 type	SGW-Grafana-Dashboard.json	/^      "type": "singlestat",$/;"	s	object:panels.3
 type	SGW-Grafana-Dashboard.json	/^      "type": "singlestat",$/;"	s	object:panels.4
 type	SGW-Grafana-Dashboard.json	/^      "type": "singlestat",$/;"	s	object:panels.5
+type	opster-sg-template.json	/^                  "type": "boolean"$/;"	s	object:opster-sg.mappings.properties.exception.properties.stack_trace.properties.native_method
+type	opster-sg-template.json	/^                  "type": "long"$/;"	s	object:opster-sg.mappings.properties.exception.properties.stack_trace.properties.line_number
+type	opster-sg-template.json	/^              "type": "keyword"$/;"	s	object:opster-sg.mappings.dynamic_templates.0.strings_as_keywords.mapping
+type	opster-sg-template.json	/^              "type": "long"$/;"	s	object:opster-sg.mappings.properties.headers.properties.Content-Length
+type	opster-sg-template.json	/^              "type": "long"$/;"	s	object:opster-sg.mappings.properties.headers.properties.Upgrade-Insecure-Requests
+type	opster-sg-template.json	/^              "type": "long"$/;"	s	object:opster-sg.mappings.properties.headers.properties.x-forwarded-port
+type	opster-sg-template.json	/^          "type": "boolean"$/;"	s	object:opster-sg.mappings.properties.query_info_cluster_healthy
+type	opster-sg-template.json	/^          "type": "date"$/;"	s	object:opster-sg.mappings.properties.timestamp
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.cached_avg_run_time
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.cached_max_run_time
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.query_info_aggregations_max_buckets
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.query_info_cost_aggregation
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.query_info_cost_data
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.query_info_cost_range
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.query_info_cost_regex
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.query_info_cost_script
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.query_info_docs_count
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.query_info_shard_size
+type	opster-sg-template.json	/^          "type": "float"$/;"	s	object:opster-sg.mappings.properties.query_info_shards_count
+type	opster-sg-template.json	/^          "type": "integer"$/;"	s	object:opster-sg.mappings.properties.query_info_cost_total
+type	opster-sg-template.json	/^          "type": "integer"$/;"	s	object:opster-sg.mappings.properties.took
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.cached_run_count
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.dest_backend_id
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.failed_backends
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.pattern_cache_count
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_node_stat_search_active
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_node_stat_search_completed
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_node_stat_search_largest
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_node_stat_search_queue
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_node_stat_search_rejected
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_node_stat_search_threads
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_range_terms_duration
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_range_terms_from
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_range_terms_to
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_search_node_stat_active
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_search_node_stat_completed
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_search_node_stat_largest
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_search_node_stat_queue
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_search_node_stat_rejected
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_search_node_stat_threads
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_search_pattern_id
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.query_info_size
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.request_processing_time_nanos
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.response_processing_time_nanos
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.status_code
+type	opster-sg-template.json	/^          "type": "long"$/;"	s	object:opster-sg.mappings.properties.successful_backends
 uid	SGW-Grafana-Dashboard.json	/^  "uid": "vN2n2btGk",$/;"	s
 value	SGW-Grafana-Dashboard.json	/^            "value": "10m"$/;"	s	object:templating.list.0.options.1
 value	SGW-Grafana-Dashboard.json	/^            "value": "12h"$/;"	s	object:templating.list.0.options.5
@@ -2152,6 +2266,7 @@ x	SGW-Grafana-Dashboard.json	/^        "x": 14,$/;"	n	object:panels.4.gridPos
 x	SGW-Grafana-Dashboard.json	/^        "x": 18,$/;"	n	object:panels.5.gridPos
 x	SGW-Grafana-Dashboard.json	/^        "x": 4,$/;"	n	object:panels.2.gridPos
 x	SGW-Grafana-Dashboard.json	/^        "x": 9,$/;"	n	object:panels.3.gridPos
+x-forwarded-port	opster-sg-template.json	/^            "x-forwarded-port": {$/;"	o	object:opster-sg.mappings.properties.headers.properties
 xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.10
 xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.11
 xaxis	SGW-Grafana-Dashboard.json	/^      "xaxis": {$/;"	o	object:panels.12
