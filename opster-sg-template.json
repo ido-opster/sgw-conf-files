@@ -1,0 +1,178 @@
+{
+  "opster-sg": {
+    "order": 0,
+    "index_patterns": [
+      "opster-sg*"
+    ],
+    "settings": {
+      "index": {
+        "number_of_shards": "1",
+        "number_of_replicas": "1"
+      }
+    },
+    "mappings": {
+      "dynamic_templates": [
+        {
+          "strings_as_keywords": {
+            "mapping": {
+              "ignore_above": 256,
+              "type": "keyword"
+            },
+            "match_mapping_type": "string"
+          }
+        }
+      ],
+      "properties": {
+        "exception": {
+          "dynamic": "true",
+          "properties": {
+            "stack_trace": {
+              "properties": {
+                "line_number": {
+                  "type": "long"
+                },
+                "native_method": {
+                  "type": "boolean"
+                }
+              }
+            }
+          }
+        },
+        "query_info_search_node_stat_largest": {
+          "type": "long"
+        },
+        "query_info_cost_script": {
+          "type": "float"
+        },
+        "dest_backend_id": {
+          "type": "long"
+        },
+        "status_code": {
+          "type": "long"
+        },
+        "failed_backends": {
+          "type": "long"
+        },
+        "query_info_range_terms_to": {
+          "type": "long"
+        },
+        "cached_avg_run_time": {
+          "type": "float"
+        },
+        "cached_max_run_time": {
+          "type": "float"
+        },
+        "query_info_node_stat_search_queue": {
+          "type": "long"
+        },
+        "query_info_shard_size": {
+          "type": "float"
+        },
+        "query_info_shards_count": {
+          "type": "float"
+        },
+        "query_info_cost_regex": {
+          "type": "float"
+        },
+        "query_info_cost_data": {
+          "type": "float"
+        },
+        "query_info_search_node_stat_queue": {
+          "type": "long"
+        },
+        "query_info_search_pattern_id": {
+          "type": "long"
+        },
+        "successful_backends": {
+          "type": "long"
+        },
+        "pattern_cache_count": {
+          "type": "long"
+        },
+        "query_info_cost_range": {
+          "type": "float"
+        },
+        "query_info_docs_count": {
+          "type": "float"
+        },
+        "query_info_node_stat_search_threads": {
+          "type": "long"
+        },
+        "timestamp": {
+          "type": "date"
+        },
+        "headers": {
+          "properties": {
+            "Upgrade-Insecure-Requests": {
+              "type": "long"
+            },
+            "x-forwarded-port": {
+              "type": "long"
+            },
+            "Content-Length": {
+              "type": "long"
+            }
+          }
+        },
+        "request_processing_time_nanos": {
+          "type": "long"
+        },
+        "took": {
+          "type": "integer"
+        },
+        "query_info_aggregations_max_buckets": {
+          "type": "float"
+        },
+        "query_info_range_terms_duration": {
+          "type": "long"
+        },
+        "query_info_cost_aggregation": {
+          "type": "float"
+        },
+        "query_info_search_node_stat_rejected": {
+          "type": "long"
+        },
+        "query_info_search_node_stat_threads": {
+          "type": "long"
+        },
+        "query_info_node_stat_search_completed": {
+          "type": "long"
+        },
+        "query_info_node_stat_search_largest": {
+          "type": "long"
+        },
+        "query_info_range_terms_from": {
+          "type": "long"
+        },
+        "cached_run_count": {
+          "type": "long"
+        },
+        "query_info_node_stat_search_active": {
+          "type": "long"
+        },
+        "response_processing_time_nanos": {
+          "type": "long"
+        },
+        "query_info_cost_total": {
+          "type": "integer"
+        },
+        "query_info_search_node_stat_completed": {
+          "type": "long"
+        },
+        "query_info_size": {
+          "type": "long"
+        },
+        "query_info_node_stat_search_rejected": {
+          "type": "long"
+        },
+        "query_info_search_node_stat_active": {
+          "type": "long"
+        },
+        "query_info_cluster_healthy": {
+          "type": "boolean"
+        }
+      }
+    },
+    "aliases": {}
+  }
+}
